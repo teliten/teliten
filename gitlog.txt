@@ -1,0 +1,5795 @@
+commit 3de3f778f9a2eba70dd2a1771352b296bcc78f04
+Author: root <root@nuc.today>
+Date:   Fri Dec 18 19:10:38 2020 +0000
+
+    OK
+
+commit 5d2075e5c93c2e4fd04438e509c47a69be371b41
+Author: root <root@nuc.today>
+Date:   Fri Dec 18 18:50:33 2020 +0000
+
+    WHYNO_
+
+commit d173660407d709c20a3d3e31d5dbb9649320046e
+Author: root <root@nuc.today>
+Date:   Fri Dec 18 15:42:58 2020 +0000
+
+    OH ONE MORE
+
+commit e9718ab6368441e8552138058be91be845ae379d
+Author: root <root@nuc.today>
+Date:   Fri Dec 18 15:38:22 2020 +0000
+
+    B3R2 DEEDEE ... HU?
+
+commit 5cd6542f0c6387b90e7d4bb58da733a86e079ad4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Aug 23 15:09:58 2020 +0000
+
+    TEST
+
+commit 518e77038477b1dcf7eb4397fa09490e72706a32
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Aug 22 17:58:20 2020 +0000
+
+    E TEST
+
+commit cc18c96b4a50b4e265dcbdd3f798636d31f0d966
+Author: root <root@mmer.lamc.la>
+Date:   Mon Jun 22 19:49:12 2020 +0000
+
+    ADDED A PICK 98
+
+commit 784f0c302754732fd507553ad5c9418790d6bf25
+Author: root <root@mmer.lamc.la>
+Date:   Mon Jun 22 03:00:07 2020 +0000
+
+    BYE 0h
+
+commit 7429e2b0db0eb2c8057e6844f298d20919ff67b2
+Merge: 057259c86 dc11d1b92
+Author: root <root@mmer.lamc.la>
+Date:   Sun Jun 21 02:02:02 2020 +0000
+
+    UPDATE WERGERAVTO
+
+commit 057259c86b9eacdc020225399f1855e388cf778c
+Author: root <root@mmer.lamc.la>
+Date:   Sun Jun 21 01:59:57 2020 +0000
+
+    NOTSUREIFICAN
+
+commit dc11d1b923459796c975896bb10bf05c1fc64368
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Jun 9 15:12:42 2020 +0000
+
+    THIS BE DA ONE
+
+commit 05d9d9b8a02e39a34a49808f5e633dbb756813e4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Jun 7 17:49:30 2020 +0000
+
+    DFH
+
+commit 8a047a7cd1eb0c1d191bfa45cc1a1b871e891df1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Jun 7 16:42:52 2020 +0000
+
+    THIS BA IT
+
+commit 1366d001f330ac8f42fb52c8db52d7cad1aecc24
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Jun 7 16:30:47 2020 +0000
+
+    WHO REALLY GIVES TWO SHITS ANYWAY
+
+commit 677015e5297fd2e7629758c0876210a364cc2ad4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Jun 6 02:02:20 2020 +0000
+
+    RAREDCMATIA
+
+commit 74ce33bdc806f2a5bf0c0de179b13a47aabcb4ea
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Jun 1 15:36:42 2020 +0000
+
+    OH
+
+commit f759d5b6f3d9ea39f55ca2abb5d12be235abc552
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Jun 1 15:35:39 2020 +0000
+
+    old stuff
+
+commit 18f2df4b689d030d04e19c548da721de9e0f22b0
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 21:11:01 2020 +0000
+
+    LOOK A SIGNED COPY
+
+commit e98a4e8e04ed8f62b848edf11a40d1f17de449ca
+Merge: 12b319de6 dbc3fb98b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 03:15:41 2020 +0000
+
+    DF
+
+commit 12b319de6364e72c0d9f5657e59b010fe68a5677
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 03:04:34 2020 +0000
+
+    OHOK
+
+commit baafd89e274a3f4187092acfa64fae9e25d5223c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 02:46:02 2020 +0000
+
+    OOPS. ECC OOPS
+
+commit dbc3fb98b4005eece3b09fb2960b6fdcca2b248b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 02:21:32 2020 +0000
+
+    TOUCH OF SIG
+
+commit 72c136d79c6ee3c240708db61e3e229596d813b7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue May 26 02:21:32 2020 +0000
+
+    TOUCH OF SIG
+
+commit 5bb85612650d643be779671f236e32903293375d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 25 22:02:31 2020 +0000
+
+    strange
+
+commit 973875997b13c0f8dc13169617313b7f17f2e137
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 25 22:02:31 2020 +0000
+
+    strange
+
+commit 321cda3e05317d5dc943e49ca1a88128cfca1aa5
+Author: Adam Marshall Dobrin ... adam5@protonmail.com adam@ermccorp.com adobrin@gmail.com <Adam Marshall Dobrin ... adam5@protonmail.com adam@ermccorp.com adobrin@gmail.com>
+Date:   Sat May 23 17:14:48 2020 +0000
+
+    SWORDUP AND DAWIN THE KEYSPUN
+
+commit 23f0acc6331c370bb81b4613ec864bfbaa395124
+Author: Adam Marshall Dobrin ... adam5@protonmail.com adam@ermccorp.com adobrin@gmail.com <Adam Marshall Dobrin ... adam5@protonmail.com adam@ermccorp.com adobrin@gmail.com>
+Date:   Sat May 23 17:14:48 2020 +0000
+
+    SWORDUP AND DAWIN THE KEYSPUN
+
+commit 19ce4c0e502f6baeadae25e6dbc827f4c52cd0ab
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri May 22 12:21:56 2020 +0000
+
+    HPHTMAMY
+
+commit cfe03c07437877c0592a6d9a75f6cf5404d05f3f
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri May 22 12:21:56 2020 +0000
+
+    HPHTMAMY
+
+commit 0f680b199f4f53f1b74cd380f44c84c7f2c92cdd
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:29:01 2020 +0000
+
+    THANKS SWARTZ AND WHALES
+
+commit e44c6f791825d7a6e40ecfdc5804916452667cf4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:29:01 2020 +0000
+
+    THANKS SWARTZ AND WHALES
+
+commit 06d2586e061db822e8a9d7b5a55dd07e704d3676
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:22:40 2020 +0000
+
+    OH TY HYPOTHES.IS, AND DISSENTER AND MARKUP.IO, AND UHHHHH REDDIT
+
+commit 67ed3203d034fb84fbc97260abd3cff461c8bd89
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:22:40 2020 +0000
+
+    OH TY HYPOTHES.IS, AND DISSENTER AND MARKUP.IO, AND UHHHHH REDDIT
+
+commit 9e03acd9922b160a04d083ddcfaf6cfb0c046128
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:17:35 2020 +0000
+
+    THANK YOU HYPOTHES.SIS
+
+commit 2ffaecdc69fbe8e6338e950ce4167f360128b947
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:17:35 2020 +0000
+
+    THANK YOU HYPOTHES.SIS
+
+commit 6b68b108150372741426b5f2e7d19c901e3bea40
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:09:56 2020 +0000
+
+    PUBLISHIN
+
+commit e2dfaa7f8db261257a342243284c80da5f3f4870
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 22:09:56 2020 +0000
+
+    PUBLISHIN
+
+commit 0533714e5fb0a70a2ebd71917cea97f1be305947
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 18:39:49 2020 +0000
+
+    HYPO THE S IS ... MELE M . MA?"
+
+commit ab1f98dcd96f8bdefa3564a725cf0b417b54c48a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 18:39:49 2020 +0000
+
+    HYPO THE S IS ... MELE M . MA?"
+
+commit fdd168f5f10582a24d22d67706d8e30d710eb1e1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 18:28:29 2020 +0000
+
+    ADDED PRECURSOR FROM HYPOTHES.IS ... OH I GET IT, MEZZOSOSLO
+
+commit bd5f4f27f1f77286e1cb739610b5a9c4ddc910f8
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu May 21 18:28:29 2020 +0000
+
+    ADDED PRECURSOR FROM HYPOTHES.IS ... OH I GET IT, MEZZOSOSLO
+
+commit 55045544621b386c2667c4f22530543de9a9f87f
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:35:08 2020 +0000
+
+    pgp sigs on asc
+
+commit d4967b19d35b536515dc843bc0cf7515a9c67688
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:35:08 2020 +0000
+
+    pgp sigs on asc
+
+commit 6b51e424164405ccbd0422962f7114920ff1bcd0
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:27:10 2020 +0000
+
+    canaries
+
+commit 66b7a5786bfb83842a0798252c80c0f26e758e08
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:27:10 2020 +0000
+
+    canaries
+
+commit 5685b469a119d232a0228771050b3a3b7905a484
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:26:00 2020 +0000
+
+    OH
+
+commit 6cc47c8648d29dbe6f76ba1325f58084811d778b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon May 18 17:26:00 2020 +0000
+
+    OH
+
+commit 598741960fb43df5ab35f877c156d8cbbbd1cf41
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri May 15 17:26:37 2020 +0000
+
+    OH ADDED BOOX
+
+commit c796338a693611bbf92777f169b6edf6ce3e5d0a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri May 15 17:26:37 2020 +0000
+
+    OH ADDED BOOX
+
+commit f75818443bfaa0fd35333dd5b93b2898557ef9a4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 23 03:13:52 2020 +0000
+
+    WELL FUCK EM THEN
+
+commit 08ce2605e1cbfb01a2f926b50aebdfdd4c7a5f37
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 23 03:13:52 2020 +0000
+
+    WELL FUCK EM THEN
+
+commit c90d23a02d1c0ea73bc135193a85c8a56b9a17f9
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 21:58:30 2020 +0000
+
+    SADF
+
+commit cd7715ccca13fb1dc2c33ffbb7384b23420824dc
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 21:58:30 2020 +0000
+
+    SADF
+
+commit d5a0e7434b1840dff60aa26e35607c928a1b0ec0
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 21:53:44 2020 +0000
+
+    I AM STUPID.
+
+commit dfee2a19ae36abbf576bf72baf638c1a6e5a46c5
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 21:53:44 2020 +0000
+
+    I AM STUPID.
+
+commit 6da8d1d9e0afe3aabcf27e58341e008689085721
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 21:17:17 2020 +0000
+
+    REMEMBER TO DOWNLOAD
+
+commit 66b1e34fdb3942508d6a86b1981b2d6f2a13ee2b
+Merge: ed04158e0 a5d4ee958
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 21:15:44 2020 +0000
+
+    Merge branch 'master' of http://github.com/genieck/genieck.github.io
+
+commit ed04158e0b8bba96bf5a6b3ea5749566c37f47be
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 21:15:13 2020 +0000
+
+    TWOBP
+
+commit a5d4ee958f5bb58818b3e277f646ba6d4b4c420e
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 18:08:18 2020 +0000
+
+    I HATE GOOGLE
+
+commit d67b53d6b920c377a9252cc7320bfeeaf697ef1b
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 18:08:18 2020 +0000
+
+    I HATE GOOGLE
+
+commit 4ab2894ad32ee0262ff6ce7e394f3cbddf570e67
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 18:06:59 2020 +0000
+
+    FUCKINGGOOG
+
+commit 4fa014598465e081c105118f82bad9bdb4085051
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 18:06:59 2020 +0000
+
+    FUCKINGGOOG
+
+commit b0e9c112a4584191d75da760d2dda956d5f479da
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 17:11:03 2020 +0000
+
+    OH.  ROLL.  OVER.  LOG.
+
+commit da162e5db991687c7b5aa8a0edf6a2824982f3e6
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 17:11:03 2020 +0000
+
+    OH.  ROLL.  OVER.  LOG.
+
+commit 87959e0458f47fdbc1e728bc43e8619d4caddba7
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 14:01:21 2020 +0000
+
+    OH
+
+commit f9e9f578474e8381ff6efe5ba259ac2146137a0e
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 14:01:21 2020 +0000
+
+    OH
+
+commit 6a52d664b65ca7db3805dc74c002ee3dabdfea7c
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 14:00:41 2020 +0000
+
+    OH
+
+commit f985caa57dc9301775e5e1a873de0a61bfff3dc0
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 14:00:41 2020 +0000
+
+    OH
+
+commit c16334c1a6e67e643a4ec3dcb402a3da9189ac30
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 06:11:49 2020 +0000
+
+    FUCKING A
+
+commit ec37942dc239e234dd72892ca9850d0d3c394a1b
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 06:11:49 2020 +0000
+
+    FUCKING A
+
+commit 0770821ec61bd5d9d7444c5cc0abd37e18ad5780
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 06:08:27 2020 +0000
+
+    GREMILRA
+
+commit d974f36b93fc0d3aa23080272fd58aa627e9d562
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 06:08:27 2020 +0000
+
+    GREMILRA
+
+commit 8f1cbb5990caec4be3ff0f724f76ccad4dd09c3b
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 05:41:51 2020 +0000
+
+    DFS
+
+commit 4c845ee287ad513f7ab56e1c1c15d1420a5d27d5
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 05:41:51 2020 +0000
+
+    DFS
+
+commit a18d4ab191950007eb801031ea64ab0f3fd76ff2
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 05:38:34 2020 +0000
+
+    OH
+
+commit 477c410bca313ff3a8fd45b1c6888e1f64f22b97
+Author: root <root@ATLAS.S>
+Date:   Wed Apr 22 05:38:34 2020 +0000
+
+    OH
+
+commit a6c2026973c6f3a3f4d9928f2a98e3927a1d06c4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:36:23 2020 +0000
+
+    NOT AGIN
+
+commit 7ac10a725b94189d40e3811fe026bf6a26eef9d9
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:36:23 2020 +0000
+
+    NOT AGIN
+
+commit a112ed75bd4fb8965c85fb9a141f06d71d969e51
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:23:42 2020 +0000
+
+    SDF
+
+commit 61ce6282959cb466f8c2cce9826e7e4d20ea5c96
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:23:42 2020 +0000
+
+    SDF
+
+commit 4bca8b5ff681c5262d6a86eae92a6626918b034d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:15:43 2020 +0000
+
+    WELL 2c
+
+commit 17e2bdff5a0bf47e2dc982ac81b1bd4135762aca
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 05:15:43 2020 +0000
+
+    WELL 2c
+
+commit 43e2f4fe7b53c13e215a81182a68aa3a700bba1e
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:56:27 2020 +0000
+
+    HMM
+
+commit 342bc71507f9d41eac9076afe6fb673c2fb49f49
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:56:27 2020 +0000
+
+    HMM
+
+commit 802fad4f092a09e998f9feda33376cb91784cc47
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:46:10 2020 +0000
+
+    DF
+
+commit 3a0779fc11162e4c7be4517dd99964efc3e58ec3
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:46:10 2020 +0000
+
+    DF
+
+commit 8f3b8cadff4dc42a1841a975389041498134e2ba
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:28:23 2020 +0000
+
+    FUCK THIS SHIT IT IS BULL SHIT
+
+commit 7de81d813f5fd305ffff683dd36e201ff74562ca
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 22 02:28:23 2020 +0000
+
+    FUCK THIS SHIT IT IS BULL SHIT
+
+commit 70e47ac0fa57aaba14123a157700bb4af870c6e1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 13:07:59 2020 +0000
+
+    TIE EI EI EI M
+
+commit 7fb969d29230f4aa0f2ffab326486e5fa9ff8160
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 13:07:59 2020 +0000
+
+    TIE EI EI EI M
+
+commit 5750295c87e212be3f63602c517f6ae9156fb9e9
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 13:01:06 2020 +0000
+
+    SPARTIFACTS.html
+
+commit cda565a49c41ccc5e5ee38a3c38b177e93cf48ac
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 13:01:06 2020 +0000
+
+    SPARTIFACTS.html
+
+commit 6cb74e5f5addea6490b6e63cbfa05353f64fccfc
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 06:50:40 2020 +0000
+
+    RTWO MORE
+
+commit 49f21521d9c9051e444b95b199cbe80565629adf
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 06:50:40 2020 +0000
+
+    RTWO MORE
+
+commit 8a8a0a77cfccf85d3364bc562d0b00e4eba40c16
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 06:41:16 2020 +0000
+
+    PCEBUNTUALLAH
+
+commit c70802d3be1cf9ace73b06f067307e6bf3671bfc
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 21 06:41:16 2020 +0000
+
+    PCEBUNTUALLAH
+
+commit 453cd19074b7b2d3038c497e11ca486056421c0e
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 20 18:47:10 2020 +0000
+
+    BLISS: AND ETH
+
+commit e1ce1a83a749d14f28d0cd6601b892fef8dcc44f
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 20 18:47:10 2020 +0000
+
+    BLISS: AND ETH
+
+commit 553835a7f3f2694f928de598e50fa7fd0418735a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 20 03:35:08 2020 +0000
+
+    DFDF
+
+commit e1bf4ba73ae54d2a5d6ff6e7eae44dd2227a2b20
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 20 03:35:08 2020 +0000
+
+    DFDF
+
+commit 721e8b82b1c0515937dd23d1a39ff16da7c7f5a7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:40:44 2020 +0000
+
+    DF
+
+commit a6f5307915394c188fceecf9e1fdba1e21d236d7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:40:44 2020 +0000
+
+    DF
+
+commit 7503e2e422a1c7a790775989f8f67495d34b7b47
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:32:24 2020 +0000
+
+    THIS RE
+
+commit e938f2fe947ddf7e9db7a3d19d961b433f393a4f
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:32:24 2020 +0000
+
+    THIS RE
+
+commit 28a1adf4cd86f33c7aab6e0fca30377a93d4b327
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:15:23 2020 +0000
+
+    ZOM
+
+commit 1fd06ec0b375f3a9d39ae1117ed434319c1cdb8d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 02:15:23 2020 +0000
+
+    ZOM
+
+commit d081564c39b38e9653436bb2f969fc6faf3264dc
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 01:14:14 2020 +0000
+
+    DF
+
+commit 62b4cd2aa1353c376cdf5f7fd63fd62640663b3d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 01:14:14 2020 +0000
+
+    DF
+
+commit a2fba0df4eb7ddca5ba200bf8bc2c5eec2c258d2
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 01:13:14 2020 +0000
+
+    XCALI
+
+commit 5c260d1751e982712b7cdf8465631b33c603f58c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 18 01:13:14 2020 +0000
+
+    XCALI
+
+commit ec3afa01e0850036b52a3b92085842ff1ce8f70d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 12:00:45 2020 +0000
+
+     CHERER A
+
+commit 804a3594663caae1bc06153e0f9b35c27d957a55
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 12:00:45 2020 +0000
+
+     CHERER A
+
+commit 2319d9c8251d00c7eecb8af8607bf971bbe5d9f9
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 04:23:33 2020 +0000
+
+    DF
+
+commit 488d57e06141d4447cbdfa232e425744f149b3ad
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 04:23:33 2020 +0000
+
+    DF
+
+commit ef778e85d6f8789ec087b74f1584430770ce7f61
+Author: root <root@ATLAS.S>
+Date:   Thu Apr 16 03:46:38 2020 +0000
+
+    DF
+
+commit 8bd0a51e9dd6e753beb0f2a61998e7eb9b68d838
+Author: root <root@ATLAS.S>
+Date:   Thu Apr 16 03:46:38 2020 +0000
+
+    DF
+
+commit 0edcd088b059c224fae9a8601a35bab2b9439cb5
+Author: root <root@ATLAS.S>
+Date:   Thu Apr 16 03:41:04 2020 +0000
+
+    TABLES. ACL-PUBLIC--EULA updated
+
+commit 76a93493867e2ef37bdf996beb208d2c2c4a6577
+Author: root <root@ATLAS.S>
+Date:   Thu Apr 16 03:41:04 2020 +0000
+
+    TABLES. ACL-PUBLIC--EULA updated
+
+commit f3cb1d4b79a184d36d967421c4eb0268d21fa2bf
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 03:27:50 2020 +0000
+
+    AOK
+
+commit ff81c79f671c1599a600e055a1cb939dd3b416e7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 03:27:50 2020 +0000
+
+    AOK
+
+commit b7d22f936494403f73230f752c45583e6da38935
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 01:08:17 2020 +0000
+
+    DIS CHALDEAN SEES ALDERON
+
+commit a9a4c45adfd3be8577758d685d82e36505c1e3a6
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 16 01:08:17 2020 +0000
+
+    DIS CHALDEAN SEES ALDERON
+
+commit a8c065d9ff1ee59183f131ced15145e49442b75c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 15 01:16:10 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS GPL2CLOTEATEEYY3
+
+commit f81d7947f0d3610cfea044931d67da1c52f1927a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 15 01:16:10 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS GPL2CLOTEATEEYY3
+
+commit 737b5648059f14b494b736aa1913afc6f89851e7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 15 01:15:10 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS GPL2CLOTEATEEYY3
+
+commit bb5dd7d57c5cc96b0d28d956f36c4a495e3888c6
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 15 01:15:10 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS GPL2CLOTEATEEYY3
+
+commit 037c78124eb08e7ce5c5a237f9202eb66fb5ce9d
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 21:34:16 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS
+
+commit 2402bcf58c1b1200d6194d4609249e78338534ac
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 21:34:16 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS
+
+commit 1837bff0b66b48fe168290e79ed0880dfe53c7d1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 21:17:54 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS
+
+commit 85916f999458d5e7c31e2d7306f43fbc706c62e8
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 21:17:54 2020 +0000
+
+    TRANSCENDENCE . MAJOR REVISION UPDATE . LICENSE TERMS UPDATED . NOT FOR RELEASE WITHOUT ATTRIBUTION AND (AT LEAST) WORKING PARTIAL INTERNET ACCESS
+
+commit 968a62a7ca9584f2b30e23a55c56d56789a9f363
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 19:47:48 2020 +0000
+
+    MAJOR REVISION UPDATE.  CAVEATS TO GPL UPDATED.  HOSEALEDAW
+
+commit 41204d928d9e688b8687bcae114a819c7f75f58c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 19:47:48 2020 +0000
+
+    MAJOR REVISION UPDATE.  CAVEATS TO GPL UPDATED.  HOSEALEDAW
+
+commit 5a5f7a2c3df91fc7e315fd79de12323f6f5c2843
+Author: root <root@ATLAS.S>
+Date:   Tue Apr 14 16:09:59 2020 +0000
+
+     MAAAAAAAAAAAAAWAGE
+
+commit 7bbc04e4ff93cb9b9a0e09f5bd99661865bff254
+Author: root <root@ATLAS.S>
+Date:   Tue Apr 14 16:09:59 2020 +0000
+
+     MAAAAAAAAAAAAAWAGE
+
+commit 1a2288857c2b96c469c3563c6165ec2c30c47d1d
+Author: root <root@ATLAS.S>
+Date:   Tue Apr 14 16:07:39 2020 +0000
+
+    IGNOOOOWANCE
+
+commit 7afc6de698e57e6b17d98347fe57e2b466d6e35c
+Author: root <root@ATLAS.S>
+Date:   Tue Apr 14 16:07:39 2020 +0000
+
+    IGNOOOOWANCE
+
+commit 6990c2b3200ec288f0afd24c38d6811a856b44a9
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 16:05:49 2020 +0000
+
+    OH FUA WIDTH PX
+
+commit 8981a588b5b09115de9b9bf342a34435e011ba91
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 16:05:49 2020 +0000
+
+    OH FUA WIDTH PX
+
+commit cb263c571ac1813528786216e247e137b1662fa5
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 16:03:02 2020 +0000
+
+    TABLE 500
+
+commit 9d297669f2774d7e2cc7087436369f10174d7901
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 16:03:02 2020 +0000
+
+    TABLE 500
+
+commit 0da4e0681ed3ff3a3b214992d1875cedaf01d66b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 14:22:19 2020 +0000
+
+    KEYNEWS
+
+commit f5ae3257316b894187c8dbd285f08a431cfb7714
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 14:22:19 2020 +0000
+
+    KEYNEWS
+
+commit 1431b553951d6c07b4684161344ed97e85f40732
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 14:00:14 2020 +0000
+
+    FDFDSFD
+
+commit 12983634431a96bee04a50146ac5a4a75ec34e3a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 14 14:00:14 2020 +0000
+
+    FDFDSFD
+
+commit 70118312a057562db17594a5d9413ba05a4fefde
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 13 04:23:55 2020 +0000
+
+    FUGE
+
+commit bea8cf8260453c71705a829aedb33eff24cb9ec3
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 13 04:23:55 2020 +0000
+
+    FUGE
+
+commit 8df64104ff7f46ce4972155e8ac3a05809921576
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 13 04:06:05 2020 +0000
+
+    ROLLUP OR ROLLBACK
+
+commit 71c8fa63733581c37d73f419637e196be53f4d4c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 13 04:06:05 2020 +0000
+
+    ROLLUP OR ROLLBACK
+
+commit a84a14f41835280737f5767ded1f8d8ce2fe2576
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 21:40:24 2020 +0000
+
+    VALFALLAH
+
+commit d3d5c09f2ec59a65e9b3d436aec798affbfad0f5
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 21:40:24 2020 +0000
+
+    VALFALLAH
+
+commit 56db1a5792d1dacfed55e8edc3033ed1d0ecd4a3
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 20:59:25 2020 +0000
+
+    FURE
+
+commit c4047f46b5855479682c95d79d6928f16fb471d2
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 20:59:25 2020 +0000
+
+    FURE
+
+commit c884c3057ddc90e411592959782a355478a4f6ff
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 02:27:33 2020 +0000
+
+    DF
+
+commit 6e0036de35075ad430cf36b8fe724cbc57398a62
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 02:27:33 2020 +0000
+
+    DF
+
+commit 2eb3937755618be2c4b42556ca0174d71b70a01d
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:19:23 2020 +0000
+
+    DF
+
+commit a51f6ff9500aa94bf8d5f8e74531f2a2c80999eb
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:19:23 2020 +0000
+
+    DF
+
+commit 016089916a13b8f8523a71436b392d70e4b658ff
+Merge: d02865ec0 495506f68
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:17:37 2020 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit aa6351c51fbbe7b402cbad40628c8deb2c0094cf
+Merge: 3a3e4c174 2e47bec93
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:17:37 2020 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit d02865ec081a4f1fbd7979243aa16bc3c1c2928d
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:17:22 2020 +0000
+
+    OK
+
+commit 3a3e4c174fd748868ea7e14b94417d2e460fb7e1
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:17:22 2020 +0000
+
+    OK
+
+commit dfb95216c18d28a8bfa372fb7627b9586cdd2db2
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:15:12 2020 +0000
+
+    DF
+
+commit 985f8d20edf9a8e64b789bf70e4f16f60c4e7a2c
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 02:15:12 2020 +0000
+
+    DF
+
+commit 495506f689d385a6dcaed3a403266bd282eb8a8b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 01:46:32 2020 +0000
+
+    DF
+
+commit 2e47bec9348439392db3b5a917410b4815809ac4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 12 01:46:32 2020 +0000
+
+    DF
+
+commit 7c9d30c6b0d85aa563db2d95d82fa741f90b9e8d
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 01:13:56 2020 +0000
+
+    ADS text added
+
+commit 9a3f158aaeb1a6668e6558e4c1b03fa796291f39
+Author: root <root@ATLAS.S>
+Date:   Sun Apr 12 01:13:56 2020 +0000
+
+    ADS text added
+
+commit 40fb35aa0988701aee8e952b4c26a7ebc9628b6c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 18:55:54 2020 +0000
+
+    THIS ONE
+
+commit 09caff81be25d495296a9f8876892281f2c2c389
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 18:55:54 2020 +0000
+
+    THIS ONE
+
+commit 60942773586cc7d16ca0afbfce16e78a3a765556
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 18:07:36 2020 +0000
+
+    FD
+
+commit 522c892b21e99aa08096a16fc60dbb2544c9cff0
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 18:07:36 2020 +0000
+
+    FD
+
+commit b0e8dd72c32d139c9209c59acaee02f6edbaf177
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 16:29:59 2020 +0000
+
+    UNCUFF LINKS OR
+
+commit 6698839c0cb4454d402134c050834c9ab53d4b25
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 16:29:59 2020 +0000
+
+    UNCUFF LINKS OR
+
+commit aab7d2d03215fc7f2a2348d2e76860ca45ea8375
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 15:59:25 2020 +0000
+
+    NEW INDEX
+
+commit 275d1728dfc264748afa0ea268a5faf4ff1c2f0a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 15:59:25 2020 +0000
+
+    NEW INDEX
+
+commit cdb00339d40c6b51fd8160a5a7b96bedaf155a67
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 15:58:57 2020 +0000
+
+    BLAH
+
+commit 7ab70113d3db1b1e314f22b4112061e1bba4b104
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 15:58:57 2020 +0000
+
+    BLAH
+
+commit f89d4fe71137b9497674931b8a9411d280546169
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 13:43:06 2020 +0000
+
+    DFDFDF
+
+commit 7e026f0e030c6ccc90cf7132abb46146d6e54110
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 13:43:06 2020 +0000
+
+    DFDFDF
+
+commit 2192cf8f5f5285d6271879a782407f18067aa8f3
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:38:39 2020 +0000
+
+    DFSDF
+
+commit 0e621871631ce12f7b3542178ae91fde4940600e
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:38:39 2020 +0000
+
+    DFSDF
+
+commit 4a7c67c2020e9d252a863c73e7b5be7abfe08c52
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:34:53 2020 +0000
+
+    quoth the raven ... NEVAH MAS
+
+commit 97ed31c527a32ce372739aba8354dbf7dc5f047a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:34:53 2020 +0000
+
+    quoth the raven ... NEVAH MAS
+
+commit eab5d7896e1640bbf0443228bd7ee377d3b799cf
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:29:44 2020 +0000
+
+    YUCH!
+
+commit 9b8bc146aafb13d9fcb428d41b9c182168de7254
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sat Apr 11 06:29:44 2020 +0000
+
+    YUCH!
+
+commit 99a8ecb0887e8dc086ef267742b8db1b1074f95a
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri Apr 10 03:01:57 2020 +0000
+
+    SIGHA MAYEEEEEM
+
+commit 4a22a3bc1644f5391cf8a0cbf25aaa5dcbc6b399
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Fri Apr 10 03:01:57 2020 +0000
+
+    SIGHA MAYEEEEEM
+
+commit c1ceb6fec2b8537eb4631cb8728045d604b07cf4
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 9 13:06:13 2020 +0000
+
+    IS HE CONTROLLING
+
+commit 5647bb28fbb4449becc4b3018d66af16f7e42950
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Thu Apr 9 13:06:13 2020 +0000
+
+    IS HE CONTROLLING
+
+commit 50af801ff79433489d4771fadd527b441b8f0f77
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 15:17:31 2020 +0000
+
+    REQS
+
+commit f1535b9270e9c3e066339d4e45f68329f6e05976
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 15:17:31 2020 +0000
+
+    REQS
+
+commit 93410c683a9c1ec69895ec1284701f0799a4bbe5
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:55:39 2020 +0000
+
+    AOK
+
+commit 5e9f9dab882d71751a69090b8c621343189c2953
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:55:39 2020 +0000
+
+    AOK
+
+commit a47e83a2d5a8117e4be29d636194a0a6c669dc33
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:52:51 2020 +0000
+
+    SIGNING WITH FTM
+
+commit 25f8f7a221b83840a95e2696f0d6be692444c73c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:52:51 2020 +0000
+
+    SIGNING WITH FTM
+
+commit 48c46be63c5028acc0d42585a3dcd0ea8d233027
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Wed Apr 8 11:46:09 2020 +0000
+
+    SIGR AT COMMIT IP
+
+commit 33da90de06b828012b193bebfd9fe8c2617e5391
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Wed Apr 8 11:46:09 2020 +0000
+
+    SIGR AT COMMIT IP
+
+commit 916649f4c4b603e860834bf82858cec055592f8b
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:07:14 2020 +0000
+
+    ALLSPARK ALLSIG ... ADDED ERMCCORP KEY FINGERPRINT
+
+commit 43f11cbda079adc7924d8d4e9274f7b8aa5346aa
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Wed Apr 8 11:07:14 2020 +0000
+
+    ALLSPARK ALLSIG ... ADDED ERMCCORP KEY FINGERPRINT
+
+commit 6263b9dd1a68747c4f94aff38f342b03a60d34ee
+Merge: d9f4da86c b9aba9539
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:06:23 2020 +0000
+
+    BLAH
+
+commit db1a1303ecd1e10279dac7762f615d445b94d735
+Merge: 80c69dbdf b37102598
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:06:23 2020 +0000
+
+    BLAH
+
+commit d9f4da86cf9fe69592dc0147e4e27e2693150693
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:03:11 2020 +0000
+
+    D
+
+commit 80c69dbdf94e98ad55a96e3dd6d1dfd8d2a27fa7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:03:11 2020 +0000
+
+    D
+
+commit a098726f0aef02beca03bdc526ecba8478d7c85c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:01:47 2020 +0000
+
+    SOUNDCHEK
+
+commit 84f7669745a7ea158b6e1736a9b7a0e13c5d0679
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Tue Apr 7 21:01:47 2020 +0000
+
+    SOUNDCHEK
+
+commit b9aba953927da4fb7b49a795176b9441c660e664
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Tue Apr 7 16:29:22 2020 +0000
+
+    REMOVED LOCAL SELF REFERENCING URLS / RELACED WITH ./
+
+commit b37102598086831b8305031686d2bc07f6ead829
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Tue Apr 7 16:29:22 2020 +0000
+
+    REMOVED LOCAL SELF REFERENCING URLS / RELACED WITH ./
+
+commit 1dd0e9c9c5b9a88cfe72da1fb8abd6485efa2d76
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Tue Apr 7 16:20:40 2020 +0000
+
+    TESTING NO HTTPS
+
+commit 0e1066b61449d6a8504dfb27c6bdfb99ff2261c8
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Tue Apr 7 16:20:40 2020 +0000
+
+    TESTING NO HTTPS
+
+commit 1b4bf04dc30c8ad9cb833b71ab22d8031627a80d
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 21:37:51 2020 +0000
+
+    REQS FIX
+
+commit 3b6ffbabc3cb6d20d9c1f2899e034d74d388abd7
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 21:37:51 2020 +0000
+
+    REQS FIX
+
+commit 3e3ed59ec30cc344dfab9316e5e7c74a11e8ff73
+Merge: 6d04a46e7 66dbf7052
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 21:33:55 2020 +0000
+
+    Merge branch 'master' of http://github.com/genieck/genieck.github.io
+
+commit 4dd6bb10ab4e5fe96c9ce4bedef49007d2c25e72
+Merge: 2baaf1f46 2004400e1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 21:33:55 2020 +0000
+
+    Merge branch 'master' of http://github.com/genieck/genieck.github.io
+
+commit 6d04a46e74cc131aead3f6a9e6c81d8f8a9cdfe0
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 21:33:24 2020 +0000
+
+    SRCADDED
+
+commit 2baaf1f4652abe2a47d42e28ae39593e4a2ea8c1
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 21:33:24 2020 +0000
+
+    SRCADDED
+
+commit 66dbf7052d473ca393da263bd45f49640ddbf597
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 21:30:28 2020 +0000
+
+    fromthemachine.org/fromthemachine.org fix'
+
+commit 2004400e131674aed6ae5f615d9508dca7583b59
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 21:30:28 2020 +0000
+
+    fromthemachine.org/fromthemachine.org fix'
+
+commit 9680f1b045da93d630faf0f8f17ffb2e901d0bea
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 19:08:09 2020 +0000
+
+    sig adam@ermccorp.com
+
+commit 250088d9f769933b8d07fe810e7afb0743356f50
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 19:08:09 2020 +0000
+
+    sig adam@ermccorp.com
+
+commit 16a63f32d0ed81f2a300695752a6db4b90f08689
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 18:48:58 2020 +0000
+
+    SIGHUP FEG ETHEFG ASSHOPPHI
+
+commit a97fcaa207300ea4c5ff161836fbe299dacdd7de
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 18:48:58 2020 +0000
+
+    SIGHUP FEG ETHEFG ASSHOPPHI
+
+commit b95aa302374d896dc4af04ec5ea696e1ac2aef77
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 18:16:07 2020 +0000
+
+    NEW HTML
+
+commit b3b15dcbae5b9d89f3c06766a741cd13ec6fce57
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Mon Apr 6 18:16:07 2020 +0000
+
+    NEW HTML
+
+commit a80c2f464ab5d200f41ceae73e79c9c2a57f1b2e
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 15:28:51 2020 +0000
+
+    SOIS MMER
+
+commit 38c9fb987827b1b94d89670560880e5b2b30231b
+Author: root <root@ATLAS.S>
+Date:   Mon Apr 6 15:28:51 2020 +0000
+
+    SOIS MMER
+
+commit b0b479c6e0c70f83bc83d989a49dd907444d8585
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 13:50:16 2020 +0000
+
+    OOPS I DID IT AGIAN
+
+commit 1da3f2a1b4647504f97c8074e985852d2b44f81e
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 13:50:16 2020 +0000
+
+    OOPS I DID IT AGIAN
+
+commit 35d03c5582cc5b32d96a89c16ce1d84ca4db0c58
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 13:48:39 2020 +0000
+
+    RERE
+
+commit f6de70f3175968b19c0e6e4fdf14bc85580f9fee
+Author: root <root@ip-172-31-33-146.us-east-2.compute.internal>
+Date:   Mon Apr 6 13:48:39 2020 +0000
+
+    RERE
+
+commit 62ae792e4628a2a30dcc4bd76554b30518a740a3
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:50:29 2020 +0000
+
+    THE EVOLATION OF ADAM
+
+commit a20fdf4e9c1cc713eb7da0b10b3e5d13a63646cf
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:50:29 2020 +0000
+
+    THE EVOLATION OF ADAM
+
+commit e3d5267d498d5122acff2c7ee751f3037f319b7c
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:26:08 2020 +0000
+
+    PRAETORS, FOREVER OR NEVER
+
+commit ed763b30fb29b0f92dcf1fa7882e3f8cca67c4c7
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:26:08 2020 +0000
+
+    PRAETORS, FOREVER OR NEVER
+
+commit 82d1ef17b124870710c653e61ef63d7d9d272100
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:16:15 2020 +0000
+
+    ADDED IMGS ADAM AT FROM THE MACHINE DOTTY NGO RGN
+
+commit 22f4de50cfe8b8fc244f2323c1c65958b010c680
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 15:16:15 2020 +0000
+
+    ADDED IMGS ADAM AT FROM THE MACHINE DOTTY NGO RGN
+
+commit 158a1fb1d6ebe25876a7ed13d6d2aa3f16bdb6ed
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 14:13:31 2020 +0000
+
+    FLOWER ... SEARCHING FOR ... LETS TALK ABOUT SEX BABY UETI; FLOWERS AND THE TREES, MACCABEES--SEE RAID HARD DRIVE ARRAYS AND BATTERY BACKUPS, RALEIGH AND OCALABJ ... OWEMEALFHT ... C O ME ALF HOLY TRUTH
+
+commit e216151e686d6f53301c0162277ec98be843d246
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 14:13:31 2020 +0000
+
+    FLOWER ... SEARCHING FOR ... LETS TALK ABOUT SEX BABY UETI; FLOWERS AND THE TREES, MACCABEES--SEE RAID HARD DRIVE ARRAYS AND BATTERY BACKUPS, RALEIGH AND OCALABJ ... OWEMEALFHT ... C O ME ALF HOLY TRUTH
+
+commit 0f9d2dea76754626b98d3e0daba6b0a4481ad200
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 13:33:43 2020 +0000
+
+    GJALLSIG SHIGASHO SIG APP NOTEAR\n\n TOUCHED BY AN ANGEL\n\nHAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit 3eb351daf1b0b4f52e2cdfbc6e4f1f02c80f4312
+Author: ADAM MARSHALL DOBRIN / PHENIX / RNDAXS / VOIDANSWER <adam@fromthemachine.org>
+Date:   Sun Apr 5 13:33:43 2020 +0000
+
+    GJALLSIG SHIGASHO SIG APP NOTEAR\n\n TOUCHED BY AN ANGEL\n\nHAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit acd6e61fe29ce57d719ce6d4dffca77131ef6b59
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 13:27:55 2020 +0000
+
+    GJALLSIG SHIGASHO SIG APP NOTEAR HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit 33209d15f4c2cd7f71a334efd34c561a7f6f45ff
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 13:27:55 2020 +0000
+
+    GJALLSIG SHIGASHO SIG APP NOTEAR HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit e23900abef3a6a94e0b6037336777fe7ef8f95ee
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 13:14:49 2020 +0000
+
+    HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit dfef1941c98edf3c19d12a92347f1d52d69e536b
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 13:14:49 2020 +0000
+
+    HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER ... ADDED STEGO SRC STYLESUXX AND UNEXPLAINED MYSTERIES DOT COM
+
+commit 994886904bd74f6db990c10231602204f3788d8d
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 12:48:36 2020 +0000
+
+    ADDING OLD WEBSITES, IS THE .TAR.GZ AND UPDATING MYLIFE REMOVING DICK.REALLYHIM.COM AND RECK.REALLYHIM.COM CONTENT.
+
+commit 92d62d05c092e4c9371cdc1a8b9ba8c09d5bf04b
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 12:48:36 2020 +0000
+
+    ADDING OLD WEBSITES, IS THE .TAR.GZ AND UPDATING MYLIFE REMOVING DICK.REALLYHIM.COM AND RECK.REALLYHIM.COM CONTENT.
+
+commit cdeaa89adc5d6b41e3720a3d468ce245b8899f27
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 12:37:50 2020 +0000
+
+    HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER
+
+commit 34fd62f5d33a6209b5cbf19d4acec0d7606d172d
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 12:37:50 2020 +0000
+
+    HAPH2RAH, JOYINAR, SILENCE AND BETRAYAL, ONE TRACK MAFIA; AND .. GENIECK MYLIFE ALTER
+
+commit ec50507f957c558183d6bf2803283f126899fbcf
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 11:59:16 2020 +0000
+
+    GENIE MYLIFE
+
+commit 5d2a7dca72cc006df6e472cf81aed24d32e25ddc
+Author: root <root@nuc.today>
+Date:   Sun Apr 5 11:59:16 2020 +0000
+
+    GENIE MYLIFE
+
+commit 3aec52687d1b763162652f35cb413b1a1d354f87
+Author: root <root@nuc.today>
+Date:   Fri Apr 3 01:52:25 2020 +0000
+
+    RERERERERE
+
+commit 4d8ddef3c574db0712825f08c96074c0269a3c06
+Author: root <root@nuc.today>
+Date:   Fri Apr 3 01:52:25 2020 +0000
+
+    RERERERERE
+
+commit 97234801a68fe11287794f45c3b7d699015f19ba
+Author: root <root@nuc.today>
+Date:   Mon Mar 30 12:11:16 2020 +0000
+
+    DONATE NOW
+
+commit cccb76851ccc7727cee1be21cf2aee7150d6a27a
+Author: root <root@nuc.today>
+Date:   Mon Mar 30 12:11:16 2020 +0000
+
+    DONATE NOW
+
+commit 783988e0e878faac7494492640348b39200fa3aa
+Author: root <root@nuc.today>
+Date:   Sun Mar 29 19:43:04 2020 +0000
+
+    fuck off.
+
+commit 1931606a9c894d83d11cd31ec422272d2da4615b
+Author: root <root@nuc.today>
+Date:   Sun Mar 29 19:43:04 2020 +0000
+
+    fuck off.
+
+commit d92763f637c3ceefa3bc0da12265651e635cfe29
+Author: root <root@nuc.today>
+Date:   Sun Mar 29 11:37:28 2020 +0000
+
+    SOUND OF MOSS
+
+commit dec8912dc59d0535c1508ab0c6807eea328d0149
+Author: root <root@nuc.today>
+Date:   Sun Mar 29 11:37:28 2020 +0000
+
+    SOUND OF MOSS
+
+commit f096e9c6695420f6c5cc5885f10f1a8c88680cc6
+Author: root <root@nuc.today>
+Date:   Mon Mar 23 16:26:06 2020 +0000
+
+    tsadi/unidammus
+
+commit 966789be52c1c91d382295f3261368267bdfef8a
+Author: root <root@nuc.today>
+Date:   Mon Mar 23 16:26:06 2020 +0000
+
+    tsadi/unidammus
+
+commit 1f8cf9842f92a5d107f6aa8719e484e7385b84aa
+Author: root <root@nuc.today>
+Date:   Thu Nov 28 05:33:31 2019 +0000
+
+    TAT
+
+commit be8454707f25db5b160b555ffca01a7a7ca7fe47
+Author: root <root@nuc.today>
+Date:   Thu Nov 28 05:33:31 2019 +0000
+
+    TAT
+
+commit b9c237476852a9e682334b1e3253532e5629464f
+Author: root <root@nuc.today>
+Date:   Fri Nov 22 23:46:11 2019 +0000
+
+    DOBS
+
+commit 53ec36c5aca8878aa62bbc71ae945e67b801bfd5
+Author: root <root@nuc.today>
+Date:   Fri Nov 22 23:46:11 2019 +0000
+
+    DOBS
+
+commit 76b19bfcae43c1c4c712fe6cf0e347e2d7c83a97
+Author: root <root@nuc.today>
+Date:   Fri Nov 22 20:26:29 2019 +0000
+
+    BUSSHILT
+
+commit fa7c8addcf0f70c0836b2282cdbf113dd785b1fd
+Author: root <root@nuc.today>
+Date:   Fri Nov 22 20:26:29 2019 +0000
+
+    BUSSHILT
+
+commit 60869a320ef5fbda715280ea1279eae3a980becb
+Author: root <root@nuc.today>
+Date:   Mon Oct 21 14:56:44 2019 +0000
+
+    FRUMLEGT
+
+commit e33ba63c64e65f4f01b23422c2792de18faff4eb
+Author: root <root@nuc.today>
+Date:   Mon Oct 21 14:56:44 2019 +0000
+
+    FRUMLEGT
+
+commit 51985cf9435f560ac62d8e91d58d45e51c4b7241
+Author: root <root@nuc.today>
+Date:   Mon Oct 21 12:43:37 2019 +0000
+
+    HORTH
+
+commit 7bc6af7856c99a93bcbc2da73114a61618fa004f
+Author: root <root@nuc.today>
+Date:   Mon Oct 21 12:43:37 2019 +0000
+
+    HORTH
+
+commit 0e3ec9913b400922beee4c0a642fdfe47a4bceae
+Author: root <root@nuc.today>
+Date:   Sun Oct 20 15:22:39 2019 +0000
+
+    OCTREDHATOBER
+
+commit d120f45b1b37944fb89027c16230d3a4228fbb66
+Author: root <root@nuc.today>
+Date:   Sun Oct 20 15:22:39 2019 +0000
+
+    OCTREDHATOBER
+
+commit bf71e8547ac3e9e49c2351c6adb86730b5a19743
+Author: root <root@nuc.today>
+Date:   Sun Oct 20 04:09:36 2019 +0000
+
+    MEH
+
+commit 0cc6bda57d2031ec48bfa78eb57dac22423f152f
+Author: root <root@nuc.today>
+Date:   Sun Oct 20 04:09:36 2019 +0000
+
+    MEH
+
+commit 66580fbeae0271c2b8dac9aa83b294def38edfdf
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 05:32:46 2019 +0000
+
+    OH SED -i -e 's/..///g'
+
+commit 4aeb49ce63232417b81408e3952207379ab75a42
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 05:32:46 2019 +0000
+
+    OH SED -i -e 's/..///g'
+
+commit 2d6ca02e399bcc866068a36bce0945548c3acff0
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 05:26:50 2019 +0000
+
+    PICS
+
+commit 9b496af94cf443a944ede9bd1c75a22408dd959c
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 05:26:50 2019 +0000
+
+    PICS
+
+commit 07e5a36db5ff3ff8ae9a357ab35b14525b64e9df
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 02:23:43 2019 +0000
+
+    INTERSTITIAL
+
+commit 6a9bf26f0fbb29c2213fb4620b052db6a2c6c9ae
+Author: root <root@nuc.today>
+Date:   Sat Sep 21 02:23:43 2019 +0000
+
+    INTERSTITIAL
+
+commit 05ccf327a0f082ca61969904d23f2f58c7d56998
+Author: root <root@nuc.today>
+Date:   Wed Sep 18 12:54:33 2019 +0000
+
+    REVOKE
+
+commit 979cd9cc166bedcf76d6f5d2cda0a37aadac388c
+Author: root <root@nuc.today>
+Date:   Wed Sep 18 12:54:33 2019 +0000
+
+    REVOKE
+
+commit a3eeedf580cac4cf4d4efc0ba04f9de14465f8da
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 22:15:38 2019 +0000
+
+    ART AND SWORDS
+
+commit 70816207b3d181837f8003bf8d6ace34ff0b8957
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 22:15:38 2019 +0000
+
+    ART AND SWORDS
+
+commit df720aac4b6d69c28b22f0193fde9b3ad5fde72e
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 21:43:01 2019 +0000
+
+    Y
+
+commit c21b58ad2441ec302fa40bb103ef21417769c4a7
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 21:43:01 2019 +0000
+
+    Y
+
+commit e244e6d3bf8bc01577bda321142aecd761612c83
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 20:36:37 2019 +0000
+
+    REAL
+
+commit cd280fb80b7cfa53942f9c8a5ad312915f1f1ce3
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 20:36:37 2019 +0000
+
+    REAL
+
+commit 6cd6776ee374120e43b05b86201a02c55403d9cb
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 13:21:44 2019 +0000
+
+    RE
+
+commit 847a3d81d8c9e836ba0bb163f7c06b5e1830c890
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 13:21:44 2019 +0000
+
+    RE
+
+commit 00e25780614a49c352bd708ca61133dc3eca88a1
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 04:35:06 2019 +0000
+
+    DR WHO AN
+
+commit e501e93735d5fe6214b41b1b10147ad14a6c8701
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 04:35:06 2019 +0000
+
+    DR WHO AN
+
+commit 2bf4248a79187aa687c5df7ccb2efefbbaab1aac
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 04:06:34 2019 +0000
+
+    DARTANIAN
+
+commit 13c42a18b7961bd0028736e1854457e668e9a276
+Author: root <root@nuc.today>
+Date:   Tue Sep 17 04:06:34 2019 +0000
+
+    DARTANIAN
+
+commit eb294cc92935e508d0a8f80917cb740dedf3c38f
+Author: root <root@nuc.today>
+Date:   Mon Sep 16 12:33:25 2019 +0000
+
+    RE
+
+commit a6f6f0111acc5728f87a225d7a427117b71e2883
+Author: root <root@nuc.today>
+Date:   Mon Sep 16 12:33:25 2019 +0000
+
+    RE
+
+commit d98aff88b6ae20169e18e06fe79218b088242967
+Author: root <root@nuc.today>
+Date:   Sun Sep 15 21:44:14 2019 +0000
+
+    RE
+
+commit c3831b0f82ce2babb571a43d0c86883e4832482e
+Author: root <root@nuc.today>
+Date:   Sun Sep 15 21:44:14 2019 +0000
+
+    RE
+
+commit 19f3cd00f150ec7d119dd72b78fb303a22e489a3
+Author: root <root@nuc.today>
+Date:   Sun Sep 15 02:23:50 2019 +0000
+
+    EVERY SINGLE ONE
+
+commit a02bceb0cd6efb74712f3e7738c44181ca2c65fb
+Author: root <root@nuc.today>
+Date:   Sun Sep 15 02:23:50 2019 +0000
+
+    EVERY SINGLE ONE
+
+commit 6ad84f870963a59b54b119fd0db0793a0a4b27e2
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 18:57:48 2019 +0000
+
+    HERO
+
+commit 04286558918ff74e60f6213717ccf65ecc01b49e
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 18:57:48 2019 +0000
+
+    HERO
+
+commit feccfa10ac939fa15d79745a8e84900e3e0071a9
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 17:53:46 2019 +0000
+
+    FISUTPD
+
+commit 8c119810242c920a32f7921279658d669dc18209
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 17:53:46 2019 +0000
+
+    FISUTPD
+
+commit b501ea7f266f1b91f985b7f8299a0e2923f1669a
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 17:50:31 2019 +0000
+
+    SWORD
+
+commit 529b1f1b01fef49262580f9b862c5139da8aa7ed
+Author: root <root@nuc.today>
+Date:   Fri Sep 13 17:50:31 2019 +0000
+
+    SWORD
+
+commit 3067e3db76decfab38b16690af0067bd451dc58b
+Author: root <root@nuc.today>
+Date:   Wed Sep 11 04:27:48 2019 +0000
+
+    DF
+
+commit 0cc6a203c535ce314aa2300b2c4ab6023694b80d
+Author: root <root@nuc.today>
+Date:   Wed Sep 11 04:27:48 2019 +0000
+
+    DF
+
+commit 5bb280a63ca3d37e4143a49e1ea2e08d92d1f66d
+Author: root <root@nuc.today>
+Date:   Wed Sep 11 04:27:29 2019 +0000
+
+    DF
+
+commit 0ea2a11c16df5c5ab4a1c0da990ba24f18fd854d
+Author: root <root@nuc.today>
+Date:   Wed Sep 11 04:27:29 2019 +0000
+
+    DF
+
+commit ee0c8a39c0b1ea57d7ba5accf957bffe1d3f215f
+Author: root <root@nuc.today>
+Date:   Tue Sep 10 22:08:37 2019 +0000
+
+    MIREL
+
+commit e01741cff0e51e545893eb6745ad4a733d5439c5
+Author: root <root@nuc.today>
+Date:   Tue Sep 10 22:08:37 2019 +0000
+
+    MIREL
+
+commit 0d53c8e02ec59f83d7ae933b533037837ba1c796
+Author: root <root@nuc.today>
+Date:   Sun Sep 8 16:27:11 2019 +0000
+
+    RE LEVITY NO COMEDY, LAUGH HOOK BEAR AND JOHN, LAUGH.
+
+commit 94c4cda0eca830dccd20bc310466488354a1d026
+Author: root <root@nuc.today>
+Date:   Sun Sep 8 16:27:11 2019 +0000
+
+    RE LEVITY NO COMEDY, LAUGH HOOK BEAR AND JOHN, LAUGH.
+
+commit d56490229e72d1a00af62782fd2a3b4827e2476c
+Author: root <root@nuc.today>
+Date:   Sun Sep 8 16:24:18 2019 +0000
+
+    KANSADANAS
+
+commit 11944cd0a9fe503ddf8fd5f642f053fc36f79a97
+Author: root <root@nuc.today>
+Date:   Sun Sep 8 16:24:18 2019 +0000
+
+    KANSADANAS
+
+commit a71a0979af662c7f74bb01b64500bc09077bc8a4
+Author: root <root@nuc.today>
+Date:   Thu Sep 5 00:03:36 2019 +0000
+
+    DFSWER
+
+commit aa62cb39b18580a95795eef8c9a420393815c266
+Author: root <root@nuc.today>
+Date:   Thu Sep 5 00:03:36 2019 +0000
+
+    DFSWER
+
+commit 9b3055aa69d7e63bc1583caa3586ce83ef49e6e3
+Author: root <root@nuc.today>
+Date:   Tue Sep 3 18:29:51 2019 +0000
+
+    HEIRYSOLYMITANI HOSPITALIARS
+
+commit 303372f115b1f068a91fcc97f2421a8a849cf2ce
+Author: root <root@nuc.today>
+Date:   Tue Sep 3 18:29:51 2019 +0000
+
+    HEIRYSOLYMITANI HOSPITALIARS
+
+commit c01f29a8fed27a66d276202a45f4a2dab5f78151
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 13:04:12 2019 +0000
+
+    IMAGUR
+
+commit 9c063693a79b86a6a79a63ffe65b953a6223f6db
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 13:04:12 2019 +0000
+
+    IMAGUR
+
+commit 8779389217bdf0091df9c64b82f969b694d5779e
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 12:59:57 2019 +0000
+
+    ER
+
+commit e65ab0f8ca52e9c06e8531573c37a5989bd771ae
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 12:59:57 2019 +0000
+
+    ER
+
+commit 5fb4ced2fcf23781e06f4514bc6036b157ecf70b
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:39:12 2019 +0000
+
+    PICS
+
+commit a8e9c8204218a6ed1eca5a505853b36cd4b60978
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:39:12 2019 +0000
+
+    PICS
+
+commit de83c9aa3823db8f9880bcb9190e64a20e57551c
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:38:14 2019 +0000
+
+    OWER FOUR D VADER AND I AM
+
+commit 83d484c76b486c0aa7a7aabaf767feb52cb3a4a8
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:38:14 2019 +0000
+
+    OWER FOUR D VADER AND I AM
+
+commit 38cb741a4f33cdfa08e2ce5a9f5f730d4f49d54a
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:36:57 2019 +0000
+
+    fu
+
+commit 053addbada2cd22f61fbe4f8157ae017884794c8
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:36:57 2019 +0000
+
+    fu
+
+commit f9e04f52962b4029907d7010e805cb9b9b7aea6d
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:36:02 2019 +0000
+
+    PIC
+
+commit c1fc15cb638056190eda7ec0f75f0ea2c732ea70
+Author: root <root@ATLAS.S>
+Date:   Sun Jun 30 09:36:02 2019 +0000
+
+    PIC
+
+commit 1d917f04a3a8a3010c3c2d2124a8b4a54c3a8b6c
+Author: root <root@nuc.today>
+Date:   Sun Jun 30 03:51:25 2019 +0000
+
+    THISARI
+
+commit dc97b185b63268d9721e0cd4e47e3461ee5a81b7
+Author: root <root@nuc.today>
+Date:   Sun Jun 30 03:51:25 2019 +0000
+
+    THISARI
+
+commit ef91364075c97590d663b9a55cb66486992f72e0
+Author: root <root@nuc.today>
+Date:   Sat Jun 29 01:08:33 2019 +0000
+
+    OK
+
+commit bcd08cdcaa2fda828bd24de02cc0c9146d6418c3
+Author: root <root@nuc.today>
+Date:   Sat Jun 29 01:08:33 2019 +0000
+
+    OK
+
+commit 7389cf02d30b0690692a363150061aad21e2a77f
+Author: root <root@nuc.today>
+Date:   Wed Jun 26 19:16:17 2019 +0000
+
+    ARKHO
+
+commit 1f2fdf9175c998ea7922b4d4b91f9942b9aa352e
+Author: root <root@nuc.today>
+Date:   Wed Jun 26 19:16:17 2019 +0000
+
+    ARKHO
+
+commit 71407527a60fee3b935469979e663e8986c7a008
+Author: root <root@nuc.today>
+Date:   Mon Jun 24 16:35:41 2019 +0000
+
+    FURER
+    ;'
+
+commit 0f7618b39f970fa841e4ea6bb9cc2cc93d97003f
+Author: root <root@nuc.today>
+Date:   Mon Jun 24 16:35:41 2019 +0000
+
+    FURER
+    ;'
+
+commit d081c8738868d29291b23ee529cbe8dbd8b61afb
+Author: root <root@nuc.today>
+Date:   Sun Jun 23 05:04:59 2019 +0000
+
+    ERE
+
+commit 6f33034630b66b324f9ad55d03b5309157054303
+Author: root <root@nuc.today>
+Date:   Sun Jun 23 05:04:59 2019 +0000
+
+    ERE
+
+commit 4fb821e68d3e95fa0e5885ce6ac22a9b1c471ca4
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 19:23:43 2019 +0000
+
+    NEMEC
+
+commit 1de00e6ba30cc7dd2a4229099c61d872e915b47f
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 19:23:43 2019 +0000
+
+    NEMEC
+
+commit e817e36aad1ffa9bcb1aa1d2fb131687b112de18
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 17:34:42 2019 +0000
+
+    DS
+
+commit ecb7a8566f1c66a76bb4de64c5152139129a64ae
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 17:34:42 2019 +0000
+
+    DS
+
+commit 38b3f663f58e33b31ae4ec5b04fc26f92c12ff57
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 13:33:42 2019 +0000
+
+    ISITTOR
+
+commit 902eedd2d31cc179c3450961c39a4eb2fb60af80
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 13:33:42 2019 +0000
+
+    ISITTOR
+
+commit 997575a5841da7e228326e7631c0ce6a2e0bf131
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 02:49:28 2019 +0000
+
+    UD
+
+commit 1c0d4fb66cf1e62f7c4a61f661c3dbeaa23380d4
+Author: root <root@nuc.today>
+Date:   Wed Jun 19 02:49:28 2019 +0000
+
+    UD
+
+commit 6ee5a608bfd95004574b622c07c47d4e1c6b23f7
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 14:03:48 2019 +0000
+
+    df
+
+commit 559967fa1afadaccbe0fd49a424d2828ddf1f364
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 14:03:48 2019 +0000
+
+    df
+
+commit a4f53c011ba328a95cf0cc454553ea33820ac561
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 14:01:24 2019 +0000
+
+    IT
+
+commit e4c57cd457bcadc907a2c37a7834a018321aa4c1
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 14:01:24 2019 +0000
+
+    IT
+
+commit 35be9502ba7c184fcb901908c5b0d477399d8d36
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 03:11:43 2019 +0000
+
+    OK
+
+commit c01058ce5bab95b15c33815e524bf90613727cb9
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 03:11:43 2019 +0000
+
+    OK
+
+commit 04bf7afcebed28eea1bc5ad80899911f3dfc7753
+Merge: 1ab929d6e 6bdac7e09
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:56:22 2019 +0000
+
+    FU?
+
+commit 809caaf94d060bc26f34f97cad5e16b65d6594d8
+Merge: d81e88c12 946b75297
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:56:22 2019 +0000
+
+    FU?
+
+commit 1ab929d6e1d08adb06228f9314beff7bafde949d
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:41:40 2019 +0000
+
+    DF
+
+commit d81e88c1253a0c6ff5d67bdf7d520d4abdc4ddfc
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:41:40 2019 +0000
+
+    DF
+
+commit e4bddbf508587a4fef3259e08d86333c11807ee9
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:00:21 2019 +0000
+
+    STUPID
+
+commit f6ca1d4af4d868d8f3299ad35ab00c5931a2d822
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 02:00:21 2019 +0000
+
+    STUPID
+
+commit 2fe6eef656a918696d7eddc532ef618e0bf57728
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:53:22 2019 +0000
+
+    OOPS
+
+commit 10fea43857a16a1618b48a64b010eedf3009bc7a
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:53:22 2019 +0000
+
+    OOPS
+
+commit 54a72cc23d22b43bd1d66521d887aa9d79f9016e
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:49:45 2019 +0000
+
+    FU
+
+commit e50866e5bc3e1c2fe85e02e1f2287f688edfa21f
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:49:45 2019 +0000
+
+    FU
+
+commit eac0cd4445498bdd26fd30428c109fdff7bba119
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:28:03 2019 +0000
+
+    PIX
+
+commit a96374af4eff88f33ea028d4a4bb82318664a54c
+Author: root <root@nuc.today>
+Date:   Mon Jun 17 01:28:03 2019 +0000
+
+    PIX
+
+commit 6bdac7e098e92e5ecc272fc6a683b7a36b33c684
+Author: root <root@nuc.today>
+Date:   Sun Jun 16 23:24:46 2019 +0000
+
+    DFDFWEREW
+
+commit 946b7529750136842e071d9df12619d056b871f3
+Author: root <root@nuc.today>
+Date:   Sun Jun 16 23:24:46 2019 +0000
+
+    DFDFWEREW
+
+commit e785939c9a135128841fad265ff7f09dfd5471dd
+Author: root <root@nuc.today>
+Date:   Sun Jun 16 23:24:46 2019 +0000
+
+    DFDFWEREW
+
+commit 78249a0a369c40b3c7219bf795e6abba8aa11f27
+Author: root <root@nuc.today>
+Date:   Sat Jun 15 15:51:17 2019 +0000
+
+    RE
+
+commit 58b40ac22f4a9dcd9613084340ac25f73681f35a
+Author: root <root@nuc.today>
+Date:   Sat Jun 15 15:51:17 2019 +0000
+
+    RE
+
+commit ece7d4528f7368bf20720b5b118dc458dadc1e87
+Author: root <root@nuc.today>
+Date:   Sat Jun 15 15:51:17 2019 +0000
+
+    RE
+
+commit 049e7f83fef340de4d647bd04381d9dcfbc8ccfe
+Author: root <root@nuc.today>
+Date:   Wed Jun 12 14:59:23 2019 +0000
+
+    ODF
+
+commit 291a29e443afc225bb990ac6bfed3296f0089a70
+Author: root <root@nuc.today>
+Date:   Wed Jun 12 14:59:23 2019 +0000
+
+    ODF
+
+commit eaca15b6f3a0ee7e33e298420da0286ce34b5bbb
+Author: root <root@nuc.today>
+Date:   Wed Jun 12 14:59:23 2019 +0000
+
+    ODF
+
+commit 6fb12f9acf6b6e326c503e438d5c3dadef84eb7b
+Author: root <root@nuc.today>
+Date:   Mon Jun 10 11:23:35 2019 +0000
+
+    AGTVK ... NEWS
+
+commit 2c1f6d4760810f88298f2a68f61a75cf4a65feb2
+Author: root <root@nuc.today>
+Date:   Mon Jun 10 11:23:35 2019 +0000
+
+    AGTVK ... NEWS
+
+commit 390e703abe822e8794e24c20736598174cd0e837
+Author: root <root@nuc.today>
+Date:   Mon Jun 10 11:23:35 2019 +0000
+
+    AGTVK ... NEWS
+
+commit 61c1939b6e386cebd49dc4f4b2ab9130cfbb24be
+Author: root <root@nuc.today>
+Date:   Thu May 16 14:34:06 2019 +0000
+
+    BLOW ME
+
+commit 54ac9e9b61b26ddcc35588932c23c727845d85c6
+Author: root <root@nuc.today>
+Date:   Thu May 16 14:34:06 2019 +0000
+
+    BLOW ME
+
+commit d2ecf8a8e449e4ad9d2dd5ea4c74c339f12218cd
+Author: root <root@nuc.today>
+Date:   Thu May 16 14:34:06 2019 +0000
+
+    BLOW ME
+
+commit 5edf1bfcfa591d2043673cfd194b692c22c5b519
+Author: root <root@nuc.today>
+Date:   Wed Mar 20 12:47:22 2019 +0000
+
+    TROY OLED HO R HO L HO I HA NO WEH
+
+commit 79cc77970d93d9f7b4674e3bbd923932ee8aadbe
+Author: root <root@nuc.today>
+Date:   Wed Mar 20 12:47:22 2019 +0000
+
+    TROY OLED HO R HO L HO I HA NO WEH
+
+commit a7cd8ddf1f78e1e661c25e231116213de625a8d6
+Author: root <root@nuc.today>
+Date:   Wed Mar 20 12:47:22 2019 +0000
+
+    TROY OLED HO R HO L HO I HA NO WEH
+
+commit 46c6b2397c14bac927c1f3a31c2f437845dee273
+Author: root <root@nuc.today>
+Date:   Mon Mar 11 23:08:03 2019 +0000
+
+    AMOR?
+
+commit 914adaa9d447da224655451b0109e0442c44f7c8
+Author: root <root@nuc.today>
+Date:   Mon Mar 11 23:08:03 2019 +0000
+
+    AMOR?
+
+commit 9038060a069d05033bdec3945d9888338e4da177
+Author: root <root@nuc.today>
+Date:   Mon Mar 11 23:08:03 2019 +0000
+
+    AMOR?
+
+commit a5e0244bb09b4e3726dce4d3bc4cd79384c6dae0
+Author: root <root@nuc.today>
+Date:   Fri Mar 8 13:50:42 2019 +0000
+
+    NOSH
+
+commit 81a0da5885be827ced3d0ad43a5448d6d3dafc87
+Author: root <root@nuc.today>
+Date:   Fri Mar 8 13:50:42 2019 +0000
+
+    NOSH
+
+commit 721c0bec49a0e548af52d558c2742a69fa841117
+Author: root <root@nuc.today>
+Date:   Fri Mar 8 13:50:42 2019 +0000
+
+    NOSH
+
+commit 9b07f0327c5daf0cf7968718c46bf5c652eb35a0
+Author: root <root@nuc.today>
+Date:   Thu Mar 7 02:39:53 2019 +0000
+
+    HEY
+
+commit b5b315ec5d320c5749e18c048ba3a61a22698bb3
+Author: root <root@nuc.today>
+Date:   Thu Mar 7 02:39:53 2019 +0000
+
+    HEY
+
+commit 45dfc631f44d90f989407ef1d00563bd7c02125a
+Author: root <root@nuc.today>
+Date:   Thu Mar 7 02:39:53 2019 +0000
+
+    HEY
+
+commit 7816e247814f3eae063d33c296c34109a62f1b3a
+Author: root <root@nuc.today>
+Date:   Tue Mar 5 22:45:46 2019 +0000
+
+    RERERERERE
+
+commit 70627bedc1b3d6b4902facb484574b838ef5adf1
+Author: root <root@nuc.today>
+Date:   Tue Mar 5 22:45:46 2019 +0000
+
+    RERERERERE
+
+commit dcddb5242af07293bbe28be23764903746ec4a1f
+Author: root <root@nuc.today>
+Date:   Tue Mar 5 22:45:46 2019 +0000
+
+    RERERERERE
+
+commit 725a5592d2575fa6a4876107dcf033b55134435d
+Author: root <root@nuc.today>
+Date:   Mon Mar 4 19:41:45 2019 +0000
+
+    IMA GI CU TE LRA
+
+commit 9e204d7e3b22058c1a9170e987ec211fa9e2f191
+Author: root <root@nuc.today>
+Date:   Mon Mar 4 19:41:45 2019 +0000
+
+    IMA GI CU TE LRA
+
+commit 92eb3cdd7c3df33d51314f71a2a54a0eea3c5388
+Author: root <root@nuc.today>
+Date:   Mon Mar 4 19:41:45 2019 +0000
+
+    IMA GI CU TE LRA
+
+commit f2e6626dc47ac51f4cc9a5d38c96fa0eb05104ab
+Author: root <root@nuc.today>
+Date:   Sun Feb 17 17:08:08 2019 +0000
+
+    wl. \1550407411 | http://www.lamc.la/2017-08-12-proof-of-time-travel-should-be-enough.html
+
+commit dcb9c3d462dd38eacfc0b5411389b9ba320f6e60
+Author: root <root@nuc.today>
+Date:   Sun Feb 17 17:08:08 2019 +0000
+
+    wl. \1550407411 | http://www.lamc.la/2017-08-12-proof-of-time-travel-should-be-enough.html
+
+commit 12e9fa5cbf9987c1255c73a13b51ac2304b72285
+Author: root <root@nuc.today>
+Date:   Sun Feb 17 17:08:08 2019 +0000
+
+    wl. \1550407411 | http://www.lamc.la/2017-08-12-proof-of-time-travel-should-be-enough.html
+
+commit b3b2ba7d74e2b72fae5ce4a6d3d796d0574d5917
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:32:08 2019 +0000
+
+    TOAST R A'REM
+
+commit c0599ca3e80e41c63737d37b7def2d8b57b47a52
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:32:08 2019 +0000
+
+    TOAST R A'REM
+
+commit de96ffdee11602a7f922cc1147d5e5f8d050f42c
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:32:08 2019 +0000
+
+    TOAST R A'REM
+
+commit 61d45c2cb6a16295fb76822eb13a781090de8142
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:06:46 2019 +0000
+
+    AD SCIENTIAM PER ASTRII (N'ELLA)
+
+commit 3fc64ddaa0e9de09176b1dfabc35b8bff44e398a
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:06:46 2019 +0000
+
+    AD SCIENTIAM PER ASTRII (N'ELLA)
+
+commit 9a96b93e4215d896c844507651acdd6518457e4c
+Author: root <root@nuc.today>
+Date:   Sat Feb 16 15:06:46 2019 +0000
+
+    AD SCIENTIAM PER ASTRII (N'ELLA)
+
+commit 8f99ae4c0926ad9dbd0a33c465b7b6252bfbf6dd
+Author: root <root@nuc.today>
+Date:   Tue Jan 22 14:01:23 2019 +0000
+
+    IAGO
+
+commit d7ec180e12a1330625a9e80d35eb986100409b4b
+Author: root <root@nuc.today>
+Date:   Tue Jan 22 14:01:23 2019 +0000
+
+    IAGO
+
+commit 6142be187487b31a871fecb17cf1e37ecf6daf2b
+Author: root <root@nuc.today>
+Date:   Tue Jan 22 14:01:23 2019 +0000
+
+    IAGO
+
+commit e59724a130dd9fde17661cb87566a90ef47cd77e
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 20:37:53 2019 +0000
+
+    REVER
+
+commit 3353ac6b96a3e57cfbd9d2afc2a0076985c42b91
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 20:37:53 2019 +0000
+
+    REVER
+
+commit 1f7cd525981ac4bf8b3f6743e24085ce501186b5
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 20:37:53 2019 +0000
+
+    REVER
+
+commit 40103b38399a5d77648fc0fa553b09d9394533ac
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 18:21:45 2019 +0000
+
+    OK
+
+commit 1fd5ae850fed315d9b1151fbe90ce9f3d396b529
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 18:21:45 2019 +0000
+
+    OK
+
+commit 1a3a3cfc34a5cdbef123881cdb4bf49a1c1e5d3c
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 18:21:45 2019 +0000
+
+    OK
+
+commit f39f84b2cb1ed33d25166ed0a9c7284bf4c21edd
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 17:41:51 2019 +0000
+
+    VBLOI
+
+commit a9e02761cc88cb900088d26be736efd1c32b9220
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 17:41:51 2019 +0000
+
+    VBLOI
+
+commit 5a3c3f3186015f4ef408eaf273860017cd85cf4a
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 17:41:51 2019 +0000
+
+    VBLOI
+
+commit 50fd27a552da385387e4c99b9d29a4ec75d04094
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 05:25:00 2019 +0000
+
+    BLOI!
+
+commit b13a4313239886308c591c85f05ec41b9267e980
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 05:25:00 2019 +0000
+
+    BLOI!
+
+commit 78768b1e2c6eb0471e3fc8f7f1730ec03453bf27
+Author: root <root@nuc.today>
+Date:   Mon Jan 14 05:25:00 2019 +0000
+
+    BLOI!
+
+commit 56ee7b1bde003c8c6cd4f73da54b89249c88c5d1
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 07:56:13 2019 +0000
+
+    CHERY LISP
+
+commit f16870b9f9098f1bc59e37b65cb1bf9da3b8aae3
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 07:56:13 2019 +0000
+
+    CHERY LISP
+
+commit a53234aaf985e2de6a27109e92d8b1d1a9339d5e
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 07:56:13 2019 +0000
+
+    CHERY LISP
+
+commit 459a155a1663f3deaa430fc6b96be9d00ae40320
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 05:51:36 2019 +0000
+
+    CRY SLUR
+
+commit a721f16cae030c1482a22ccffb1d771ca80bf182
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 05:51:36 2019 +0000
+
+    CRY SLUR
+
+commit e6ab78a1ff702b6f5ac76a0083ab8a95b65fd3d2
+Author: root <root@nuc.today>
+Date:   Sat Jan 12 05:51:36 2019 +0000
+
+    CRY SLUR
+
+commit 5ef79baefb5cab7f26810e576c0376ff97e2ed2f
+Author: root <root@arkho.me>
+Date:   Thu Jan 10 18:55:01 2019 +0000
+
+    MEH
+
+commit 8cbd94a8fe1537f76a5c38d5d5f8feec0de5404d
+Author: root <root@arkho.me>
+Date:   Thu Jan 10 18:55:01 2019 +0000
+
+    MEH
+
+commit 16d5ee9ba3bce9d079c595c6cd3a5b7e0a752d8f
+Author: root <root@arkho.me>
+Date:   Thu Jan 10 18:55:01 2019 +0000
+
+    MEH
+
+commit 48ab4dacddcbe9eb077376f94e0dcd083988b5ae
+Author: root <root@arkho.me>
+Date:   Wed Jan 9 17:29:57 2019 +0000
+
+    CAVENDISH
+
+commit 60c05284142cb1cb4fb26c0b056b21975f819993
+Author: root <root@arkho.me>
+Date:   Wed Jan 9 17:29:57 2019 +0000
+
+    CAVENDISH
+
+commit bc035f3bac8333e91009a0dfe43c8902ee8c6c79
+Author: root <root@arkho.me>
+Date:   Wed Jan 9 17:29:57 2019 +0000
+
+    CAVENDISH
+
+commit 902e3158b5139fa2b8284655b2abbec20c28b2c6
+Author: root <root@arkho.me>
+Date:   Sat Dec 29 17:42:09 2018 +0000
+
+    HERMES ECHIDNA SIREN
+
+commit 28febeffa3084ace6eeffa15344ee9b83c498beb
+Author: root <root@arkho.me>
+Date:   Sat Dec 29 17:42:09 2018 +0000
+
+    HERMES ECHIDNA SIREN
+
+commit e6427eb4e57775c3c1f60d624a0e0adaf598351d
+Author: root <root@arkho.me>
+Date:   Sat Dec 29 17:42:09 2018 +0000
+
+    HERMES ECHIDNA SIREN
+
+commit 89a0b078d578f10095c97b618d9ef3a1d2d6c10f
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:31:01 2018 +0000
+
+    DF
+
+commit b73132cbe88cab40ce813210d0f30470a7b2ef67
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:31:01 2018 +0000
+
+    DF
+
+commit bf6677b1f9acbcd0b4dddcfa692d3ce0eb24dbd0
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:31:01 2018 +0000
+
+    DF
+
+commit 494a734bc9393b6ca5ff65589f8bcd0102cfdeaa
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:30:41 2018 +0000
+
+    IT
+
+commit 8f3c558f583005a1890a9e9cdb326d3e9f423e7e
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:30:41 2018 +0000
+
+    IT
+
+commit bbc1dd0186700de0902535573fb68e927d1e0827
+Author: root <root@arkho.me>
+Date:   Mon Dec 3 19:30:41 2018 +0000
+
+    IT
+
+commit 964243b7dd71abdc55e61dc112243e9511a07e63
+Author: root <root@arkho.me>
+Date:   Thu Nov 29 12:56:48 2018 +0000
+
+    VADER
+
+commit 190d416e8ace10c3a62b45bd765bfbb16af600a4
+Author: root <root@arkho.me>
+Date:   Thu Nov 29 12:56:48 2018 +0000
+
+    VADER
+
+commit 1bcade4d7c2a518d786c4035a611e415a7a216b9
+Author: root <root@arkho.me>
+Date:   Thu Nov 29 12:56:48 2018 +0000
+
+    VADER
+
+commit 7edaf19b1b9a226beb060eb3507f7c28c0ba9e6c
+Author: root <root@arkho.me>
+Date:   Thu Nov 22 14:06:14 2018 +0000
+
+    B ON KA, B ON KA
+
+commit 4866e2c8aeeefda577aa5344217d2cf1b2244c5b
+Author: root <root@arkho.me>
+Date:   Thu Nov 22 14:06:14 2018 +0000
+
+    B ON KA, B ON KA
+
+commit bb94671aabc3ca50a69e706c7703aa0c2b918f6a
+Author: root <root@arkho.me>
+Date:   Thu Nov 22 14:06:14 2018 +0000
+
+    B ON KA, B ON KA
+
+commit 83221014f62f53852fc1d19fa32fad61cfd9fb9f
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:35 2018 +0000
+
+    OK
+
+commit f0ba7ae767e25b8ce02d1902afc6b13c32acdeca
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:35 2018 +0000
+
+    OK
+
+commit 15a4f1620cf051a4fb2470f6841888df0347004b
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:35 2018 +0000
+
+    OK
+
+commit 0b3837e1cfc15ddf4c69780b667951eacc53c435
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:30 2018 +0000
+
+    OK
+
+commit 8ef0e7fd56f4def64ad244490f57aa8918cc6f0e
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:30 2018 +0000
+
+    OK
+
+commit 58bdc0b79403551a6ae88137e82faaed36132361
+Author: root <root@arkho.me>
+Date:   Tue Nov 13 21:42:30 2018 +0000
+
+    OK
+
+commit 6de4a6ef93edb113a613c11b457039517fd55ccd
+Author: root <root@arkho.me>
+Date:   Mon Nov 12 15:44:55 2018 +0000
+
+    SUE B
+
+commit d8a67e4856cff4ce9a2149e549920c32c5b72afa
+Author: root <root@arkho.me>
+Date:   Mon Nov 12 15:44:55 2018 +0000
+
+    SUE B
+
+commit bbb612b203e81bc5af4e35dc182de5bc1bf13f3b
+Author: root <root@arkho.me>
+Date:   Mon Nov 12 15:44:55 2018 +0000
+
+    SUE B
+
+commit 680ba149b9fbadaec56d8693ce237dacead61f86
+Author: root <root@arkho.me>
+Date:   Thu Nov 8 23:20:27 2018 +0000
+
+    SLAUGH
+
+commit e8afbd82af2e3f63579fdeb6f5b6131af9d839f5
+Author: root <root@arkho.me>
+Date:   Thu Nov 8 23:20:27 2018 +0000
+
+    SLAUGH
+
+commit a67018c97695151b94a9a6c491d71b563ce31cc1
+Author: root <root@arkho.me>
+Date:   Thu Nov 8 23:20:27 2018 +0000
+
+    SLAUGH
+
+commit 0ab21ae61b9f6c72710f540ff8f98bd3d28bacaf
+Author: root <root@arkho.me>
+Date:   Mon Oct 29 15:13:29 2018 +0000
+
+    AOK
+
+commit 04132bf0ad6eb2e5564c4801ee9171f266ffee7c
+Author: root <root@arkho.me>
+Date:   Mon Oct 29 15:13:29 2018 +0000
+
+    AOK
+
+commit cc52850b22a24937dfd7b5ca7031b954a3183461
+Author: root <root@arkho.me>
+Date:   Mon Oct 29 15:13:29 2018 +0000
+
+    AOK
+
+commit 16d40b66fdf8a6c39eb8dbc6a88125e0a5f7f971
+Author: root <root@arkho.me>
+Date:   Thu Oct 25 15:52:37 2018 +0000
+
+    DO B AM IN E
+
+commit 25fc914ad278a43f9c205bf4a0f92e7f18012c78
+Author: root <root@arkho.me>
+Date:   Thu Oct 25 15:52:37 2018 +0000
+
+    DO B AM IN E
+
+commit 946a4014a1971ead5178171a30ffe26cb3771e84
+Author: root <root@arkho.me>
+Date:   Thu Oct 25 15:52:37 2018 +0000
+
+    DO B AM IN E
+
+commit a3e95bdb07941998e8091279327507f813e05c4e
+Author: root <root@arkho.me>
+Date:   Thu Oct 18 15:35:47 2018 +0000
+
+    TH HT: https://i.imgur.com/Q5pJhIP.png
+
+commit eb6fd434a53a28f7a8b14c333f83a53f845cccc9
+Author: root <root@arkho.me>
+Date:   Thu Oct 18 15:35:47 2018 +0000
+
+    TH HT: https://i.imgur.com/Q5pJhIP.png
+
+commit ac553fc397b2ecdc877c182f5d62db62ace3fc67
+Author: root <root@arkho.me>
+Date:   Thu Oct 18 15:35:47 2018 +0000
+
+    TH HT: https://i.imgur.com/Q5pJhIP.png
+
+commit 46c7ba5bd1d4d9a583f72a110f5643b7eff1c9e6
+Author: root <root@arkho.me>
+Date:   Wed Oct 10 18:52:53 2018 +0000
+
+    BIANKA R1 C $
+
+commit 44bc02e9c86d0568509e5a86e4292d80bf6afe6d
+Author: root <root@arkho.me>
+Date:   Wed Oct 10 18:52:53 2018 +0000
+
+    BIANKA R1 C $
+
+commit 06cfa82184dbedfa8c0c67dbb5b2f0e7f747de00
+Author: root <root@arkho.me>
+Date:   Wed Oct 10 18:52:53 2018 +0000
+
+    BIANKA R1 C $
+
+commit 6d675992ce570e329fb900ce804938023f9a6487
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:36:28 2018 +0000
+
+    OH
+
+commit ae2092cbb3a1c17acab950612dd91aa8ca0e2dff
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:36:28 2018 +0000
+
+    OH
+
+commit 480690618c966679aad20aa00f5df62636ff8a1d
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:36:28 2018 +0000
+
+    OH
+
+commit 5b9fb71f31e8c4dce8451b87d442fcdf11f8e47d
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:35:58 2018 +0000
+
+    WATER XX
+
+commit 73493531499adc1ed89df0057230c6aaa9f30fdc
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:35:58 2018 +0000
+
+    WATER XX
+
+commit d7f015b123520c54a702c1f174470cd8e14572dd
+Author: root <root@arkho.me>
+Date:   Sun Oct 7 17:35:58 2018 +0000
+
+    WATER XX
+
+commit 0387e622e4364b8a716a36c1cca47796e82aef79
+Author: root <root@arkho.me>
+Date:   Sat Oct 6 04:13:20 2018 +0000
+
+    VERNON AND OLIVER UC
+
+commit da9255463e5e81101665eab0d7f4c341ea8ff9cd
+Author: root <root@arkho.me>
+Date:   Sat Oct 6 04:13:20 2018 +0000
+
+    VERNON AND OLIVER UC
+
+commit e9e463a7e0884a75392cf119f808a9c0f93657e0
+Author: root <root@arkho.me>
+Date:   Sat Oct 6 04:13:20 2018 +0000
+
+    VERNON AND OLIVER UC
+
+commit 9a181ac5896bb185a10e91afec9e689fec9200ad
+Author: root <root@arkho.me>
+Date:   Wed Oct 3 18:49:57 2018 +0000
+
+    TANIS
+
+commit e6b5ce4eb63c86846cc326107fb980adbd81b704
+Author: root <root@arkho.me>
+Date:   Wed Oct 3 18:49:57 2018 +0000
+
+    TANIS
+
+commit e806d3308831f5053d5c8786e09c46d92f6987fb
+Author: root <root@arkho.me>
+Date:   Wed Oct 3 18:49:57 2018 +0000
+
+    TANIS
+
+commit 2bcdb6700e17f9ab36022bdb83a807efecfef50f
+Author: root <root@arkho.me>
+Date:   Sat Sep 29 18:35:43 2018 +0000
+
+    CH OIC O
+
+commit 505003647093aa7adb468959b20e4ffe1db5559b
+Author: root <root@arkho.me>
+Date:   Sat Sep 29 18:35:43 2018 +0000
+
+    CH OIC O
+
+commit b087afffe5ebe3fcda6069d16282537a33a3cf9c
+Author: root <root@arkho.me>
+Date:   Sat Sep 29 18:35:43 2018 +0000
+
+    CH OIC O
+
+commit 241c10d90a0d21b77024389b80940faee8ef86f4
+Author: root <root@arkho.me>
+Date:   Tue Sep 25 17:58:26 2018 +0000
+
+    MOL ASS IS
+
+commit 5a8ce8078cc58f1ac35f981b1d550d0b69047ba2
+Author: root <root@arkho.me>
+Date:   Tue Sep 25 17:58:26 2018 +0000
+
+    MOL ASS IS
+
+commit d239616a7ba9ca60f9dfc49003669755662e3d9c
+Author: root <root@arkho.me>
+Date:   Tue Sep 25 17:58:26 2018 +0000
+
+    MOL ASS IS
+
+commit b0ff56478874989ad49907b33fc0060adb07c5e6
+Author: root <root@arkho.me>
+Date:   Sun Sep 9 19:02:28 2018 +0000
+
+    wg\
+
+commit ba6f4018d5f02f25f13d000334c3167fe37239b3
+Author: root <root@arkho.me>
+Date:   Sun Sep 9 19:02:28 2018 +0000
+
+    wg\
+
+commit 4b074926092e4ddfb6fa1bedd8028e9c0bdad530
+Author: root <root@arkho.me>
+Date:   Sun Sep 9 19:02:28 2018 +0000
+
+    wg\
+
+commit f814d44cba01d9cca6d2324346dcd8d49ff69f91
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 14:10:05 2018 +0000
+
+    OHIC
+
+commit 7e7ecc00398ffb8c56ee7535a35165614554006b
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 14:10:05 2018 +0000
+
+    OHIC
+
+commit 72ea5b631f345ea819f5fbb926eaa42d9ff5c7c9
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 14:10:05 2018 +0000
+
+    OHIC
+
+commit 8c1f75e63d3b024da8763fce25ba79a2a6c42844
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 04:11:38 2018 +0000
+
+    BAR TINYURL.COM:
+
+commit b5e1921bce5c018c4442d8e436e3f49c6a44f4dc
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 04:11:38 2018 +0000
+
+    BAR TINYURL.COM:
+
+commit 89c8c793435721ed47a801c497ad9180e2b6c732
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 04:11:38 2018 +0000
+
+    BAR TINYURL.COM:
+
+commit ad22bbf52c719e6ae303574cefe7635e12d1f0f0
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 01:15:22 2018 +0000
+
+    ROK
+
+commit 4cbc1b0872e2bcfd25e3cbf81cd95fe0104cb3ba
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 01:15:22 2018 +0000
+
+    ROK
+
+commit 610d90774da08deffc66bc932c4203ed023edba9
+Author: root <root@arkho.me>
+Date:   Tue Sep 4 01:15:22 2018 +0000
+
+    ROK
+
+commit ceef2aef2f59576c294311c4e79e3091b0b229d7
+Author: root <root@arkho.me>
+Date:   Mon Sep 3 20:18:07 2018 +0000
+
+    SEXOBECSHELAYI
+
+commit 5c972e03945eca42f29cb17d090e79bfd95c51ef
+Author: root <root@arkho.me>
+Date:   Mon Sep 3 20:18:07 2018 +0000
+
+    SEXOBECSHELAYI
+
+commit 9b38fc54296a4b4e591adc49a651cf36839b137b
+Author: root <root@arkho.me>
+Date:   Mon Sep 3 20:18:07 2018 +0000
+
+    SEXOBECSHELAYI
+
+commit 814b1423628c155d119ec1b92d8f2adbb5cdc721
+Author: root <root@arkho.me>
+Date:   Wed Aug 29 21:28:01 2018 +0000
+
+    dbk
+
+commit e3775664a17d995efb0a7abc098d137b67c5edeb
+Author: root <root@arkho.me>
+Date:   Wed Aug 29 21:28:01 2018 +0000
+
+    dbk
+
+commit 66573ced3ae50784dc7438b6aa9f5cb2dc416c68
+Author: root <root@arkho.me>
+Date:   Wed Aug 29 21:28:01 2018 +0000
+
+    dbk
+
+commit c97484fb80d19ce6f31a07b21c31f5d47556e4f4
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 17:18:16 2018 +0000
+
+    OIC
+
+commit d1c54ff95ea4a6a01ec9f2569bce2a4b4cd4d6a4
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 17:18:16 2018 +0000
+
+    OIC
+
+commit 2e080c34ce362eeba1e9491aa1ac7522fd33e4e0
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 17:18:16 2018 +0000
+
+    OIC
+
+commit 726e367c44ef52adc95bfdb2ac663e46dac8fef1
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 00:43:05 2018 +0000
+
+    urehasdahitay
+
+commit 9dc906f21413e03a09f0756ff21c2359d90e644f
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 00:43:05 2018 +0000
+
+    urehasdahitay
+
+commit 7556e9047a2e6594f1972884520f27cb05e46b3f
+Author: root <root@arkho.me>
+Date:   Sun Aug 26 00:43:05 2018 +0000
+
+    urehasdahitay
+
+commit 07a5112b69069adff88d482e4af6c7f66b7e37e7
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 18:36:36 2018 +0000
+
+    DF
+
+commit b6e5261020979d09d6f0dd080be5a05ade44c1ed
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 18:36:36 2018 +0000
+
+    DF
+
+commit 12d43d3fb5e6a5c9c7393269af33ddb16dfac919
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 18:36:36 2018 +0000
+
+    DF
+
+commit 6728a4a7d46cb5e8445a1d1dd56bf67590063527
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 15:24:23 2018 +0000
+
+    O
+
+commit 01529c8b093b92f57af78e95a4e35931fd1559a8
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 15:24:23 2018 +0000
+
+    O
+
+commit 1334f70d59357c65946c01a16ae9cc794dba3e79
+Author: root <root@arkho.me>
+Date:   Sat Aug 25 15:24:23 2018 +0000
+
+    O
+
+commit 85c0f3f373cbd758d99a8c9db7b9101c79277f16
+Author: root <root@arkho.me>
+Date:   Fri Aug 24 16:44:18 2018 +0000
+
+    HELLO\n\nnn\nwe're hoe
+
+commit b652a9ee53ecc77feff1a1acb79cc05e396b0fd1
+Author: root <root@arkho.me>
+Date:   Fri Aug 24 16:44:18 2018 +0000
+
+    HELLO\n\nnn\nwe're hoe
+
+commit 4393e6aade9d3eb3916528b5194de5976dd98d6a
+Author: root <root@arkho.me>
+Date:   Fri Aug 24 16:44:18 2018 +0000
+
+    HELLO\n\nnn\nwe're hoe
+
+commit 4f24ddb641cd80982bc518c406ab6e45ac18ea4c
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:16:15 2018 +0000
+
+    HEAD
+
+commit fec9958c3925f2d3573de32989eb89a22ee7ace3
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:16:15 2018 +0000
+
+    HEAD
+
+commit 84243865c2a08eed7d27f1a8a9bbccbb7420b8ac
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:16:15 2018 +0000
+
+    HEAD
+
+commit 0c82af65019f707a64d67642bdb32e209a6df2d5
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:12:22 2018 +0000
+
+    IZING
+
+commit e17c4c1249d71b3ffbc57154701a7fb7b2163e98
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:12:22 2018 +0000
+
+    IZING
+
+commit a4632da4a0ca4a78235b067399a33a48bcc82868
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 22:12:22 2018 +0000
+
+    IZING
+
+commit 043be2c98e4d5f1bb284cce7c8f185de89c55d0b
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:22:22 2018 +0000
+
+     FIRST
+
+commit d7503ece0cf2428e010b737c3e85884bc62e4ddb
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:22:22 2018 +0000
+
+     FIRST
+
+commit b66aca5ab329a197721b4982438e2e8ead9b3c57
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:22:22 2018 +0000
+
+     FIRST
+
+commit 6d6ca6fdd558bc326f699685f742c6cc7a0b5eb1
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:15:21 2018 +0000
+
+    GEN
+
+commit 0ad13aaaf97fcb52d63390e8bbfc69024f1de181
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:15:21 2018 +0000
+
+    GEN
+
+commit 7c412d16f9fdc41e4d60b427dda7a28ae71d6bb9
+Author: root <root@arkho.me>
+Date:   Thu Aug 23 18:15:21 2018 +0000
+
+    GEN
+
+commit d9a3c754e8760b678f6c65590715e03e68673e35
+Merge: 37b870fbc 5d48bb37e
+Author: root <root@arkho.me>
+Date:   Tue Aug 21 03:37:46 2018 +0000
+
+    DF
+
+commit b57690b109477fe83f5834f07bc1b5b576408403
+Merge: 69a6a9736 37b9c7d56
+Author: root <root@arkho.me>
+Date:   Tue Aug 21 03:37:46 2018 +0000
+
+    DF
+
+commit 9040060bebb952b3eeee0594346a349a66f93e2c
+Merge: 37b870fbc fbc9be4d5
+Author: root <root@arkho.me>
+Date:   Tue Aug 21 03:37:46 2018 +0000
+
+    DF
+
+commit 37b870fbc1e90e11d658651054f88979fd5044fd
+Author: root <root@arkho.me>
+Date:   Tue Aug 21 03:35:30 2018 +0000
+
+    ER
+
+commit 69a6a97366b6725db4166a9b57d49628357921ff
+Author: root <root@arkho.me>
+Date:   Tue Aug 21 03:35:30 2018 +0000
+
+    ER
+
+commit 5d48bb37e36ed0e19e039d2c7aa1179d8498f2ec
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:57 2018 -0400
+
+    COMMITTED
+    
+    FU
+
+commit 37b9c7d567a85e5250dc58d4af02625fb83be98b
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:57 2018 -0400
+
+    COMMITTED
+    
+    FU
+
+commit fbc9be4d5c095a5a72d705930225b5a66497d791
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:57 2018 -0400
+
+    COMMITTED
+    
+    FU
+
+commit ce8abad8a254bc6924cebd59da9ee34d5cb13a46
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:16 2018 -0400
+
+    I FIXED IT!!
+
+commit dae67af508ae3f477dffbd63de964c14c714a55c
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:16 2018 -0400
+
+    I FIXED IT!!
+
+commit 180d5c8a8396efc54704f15a2d18dccfe5f6041b
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:47:16 2018 -0400
+
+    I FIXED IT!!
+
+commit b6b42e56df7b42ce9b317fe40bed939659fd8278
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:44:36 2018 -0400
+
+    hi
+
+commit db04fcfeb8c7ef4f8801eb9fdc47693a614d9ea3
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:44:36 2018 -0400
+
+    hi
+
+commit 6e5b31674e264d00cd6f5e9f0f824fd5f1a2e19a
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:44:36 2018 -0400
+
+    hi
+
+commit 291c0f0182b91c3226bac294cde0f4e8d3448b63
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:40:05 2018 -0400
+
+    Create imcool
+
+commit 802bf9104d598972a41333b49bda8ab75b413943
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:40:05 2018 -0400
+
+    Create imcool
+
+commit ce28e6fdf526beb5c144148cfdc5c1364d231452
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Aug 19 22:40:05 2018 -0400
+
+    Create imcool
+
+commit 0a714b003eeac6407f70f14113f968743dcef978
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 17:31:32 2018 +0000
+
+    SEVENTY
+
+commit 77e5f08671eb8d76bf2cb0d53d69a63a1f41419c
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 17:31:32 2018 +0000
+
+    SEVENTY
+
+commit 5a0832ecf21a419c089a021c6075f486e523f389
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:37:59 2018 +0000
+
+    WHO
+
+commit 79c5858c53331598c52e488fc5ec9534cbc0a5b4
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:37:59 2018 +0000
+
+    WHO
+
+commit 1b37615930e4b6a79d947fd0fc351dab28e3501b
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:36:11 2018 +0000
+
+    JPG
+
+commit 78c6d4e64be3565474687d9442add3fbce18000b
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:36:11 2018 +0000
+
+    JPG
+
+commit 71db45daef3a9710f48467430e5bb0f007803c4b
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:22:19 2018 +0000
+
+    ONG
+
+commit cf97898669ce47b6438bfb2234bac263305631e8
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:22:19 2018 +0000
+
+    ONG
+
+commit fb3cc3b6974b93c1b91b1c913b5de7d87208a7e4
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:14:51 2018 +0000
+
+    newpng
+
+commit 1bf6125519b1c790594e0498849905095d21606f
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 16:14:51 2018 +0000
+
+    newpng
+
+commit cd87670fa0e9380636f8c8e32e3988e57f285172
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 15:24:14 2018 +0000
+
+    214
+
+commit 99566a02960dca4413a10729b2edc89d18d29712
+Author: root <root@arkho.me>
+Date:   Wed Aug 15 15:24:14 2018 +0000
+
+    214
+
+commit ab577ff35d9b34987081bca393aecd3c15c35c52
+Author: root <root@arkho.me>
+Date:   Tue Aug 14 20:41:29 2018 +0000
+
+    DFSDF
+
+commit 7f34d329ebe614fb033070e739081f0f310e8d1c
+Author: root <root@arkho.me>
+Date:   Tue Aug 14 20:41:29 2018 +0000
+
+    DFSDF
+
+commit 3a131024f6a1104fcd2a4e0b114e2bffcc163fa8
+Author: root <root@arkho.me>
+Date:   Tue Aug 14 19:54:48 2018 +0000
+
+    YMCA
+
+commit 92ae3f2c65151db49dddeb85eb42296b79f4517a
+Author: root <root@arkho.me>
+Date:   Tue Aug 14 19:54:48 2018 +0000
+
+    YMCA
+
+commit b2810cb860f45fab8a654646809be6fb94054983
+Author: root <root@arkho.me>
+Date:   Sun Aug 12 05:12:59 2018 +0000
+
+    COINO
+
+commit a0f6b5be3cf4d832566e2f614b66aaa07365a3e0
+Author: root <root@arkho.me>
+Date:   Sun Aug 12 05:12:59 2018 +0000
+
+    COINO
+
+commit e6495007d302b94b9197d877d30a140ca5a99612
+Author: root <root@arkho.me>
+Date:   Sun Aug 12 04:31:53 2018 +0000
+
+    SIGNED AL V LITTLE ENDERIAN NOIZE
+
+commit 54b90316523ca55460cf5d8000a2647d78d96aa8
+Author: root <root@arkho.me>
+Date:   Sun Aug 12 04:31:53 2018 +0000
+
+    SIGNED AL V LITTLE ENDERIAN NOIZE
+
+commit 11ad82db2df68f76ed685285218cf46775ba75fa
+Author: root <root@arkho.me>
+Date:   Sat Aug 11 04:03:12 2018 +0000
+
+    autorun
+
+commit 43b7508088a91322b8bd0b89884a4c8393873160
+Author: root <root@arkho.me>
+Date:   Sat Aug 11 04:03:12 2018 +0000
+
+    autorun
+
+commit cea329e1af5a01982b867c63db2158d64a496834
+Author: root <root@arkho.me>
+Date:   Fri Aug 10 21:15:53 2018 +0000
+
+    OK
+
+commit 0ffc7f142795fa12453e8736f3bced6203c192a3
+Author: root <root@arkho.me>
+Date:   Fri Aug 10 21:15:53 2018 +0000
+
+    OK
+
+commit 64ba3336957712be18b7fd3eb9c98da9e9f768e1
+Author: root <root@arkho.me>
+Date:   Fri Aug 10 21:13:56 2018 +0000
+
+    AORK
+
+commit 83cf5542909fdb0d7c225b9a11e047dd16971b50
+Author: root <root@arkho.me>
+Date:   Fri Aug 10 21:13:56 2018 +0000
+
+    AORK
+
+commit c073d662db92410c3969e921f9d9acc6d5806b9a
+Merge: 385a3d02e 1876e2adf
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:47:17 2018 +0000
+
+    AFDS
+
+commit db8ec8f2f4cc9ca6b49324e23f56ea3e2aec0492
+Merge: a59d8b460 1be6761bc
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:47:17 2018 +0000
+
+    AFDS
+
+commit 385a3d02ee19a7bb375566fe812d4e9cf84990c9
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:35:54 2018 +0000
+
+    BETTAH
+
+commit a59d8b460e7075c07c3a6d3303a12ea003ae6dd0
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:35:54 2018 +0000
+
+    BETTAH
+
+commit 2793e3936f001ca2231d8acf43e7d6b2f1561597
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:34:01 2018 +0000
+
+    BOOKS
+
+commit 345734e1b26d8b0bac7d1be731ae498898094e07
+Author: root <root@arkho.me>
+Date:   Thu Aug 9 16:34:01 2018 +0000
+
+    BOOKS
+
+commit 8fc3cd0a8c837abbdc026454a9528c42fdd52f82
+Author: root <root@arkho.me>
+Date:   Thu Aug 2 18:45:15 2018 +0000
+
+    D IS CLOSER
+
+commit 598fee962191825ec40496e9cb8657255c306fff
+Author: root <root@arkho.me>
+Date:   Thu Aug 2 18:45:15 2018 +0000
+
+    D IS CLOSER
+
+commit a9ab31fb915fd2567c3b1f8a3dc1f7e8c46320f3
+Author: root <root@arkho.me>
+Date:   Thu Aug 2 18:27:21 2018 +0000
+
+    DIS CL CLOSED
+
+commit c8ce430a115a5c8aeeeebb36659f29dd30ae3446
+Author: root <root@arkho.me>
+Date:   Thu Aug 2 18:27:21 2018 +0000
+
+    DIS CL CLOSED
+
+commit e86aa6b059e2c0ddd4ff466587d2a25f7c2ae53b
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:30:00 2018 +0000
+
+    AULAMCDA
+
+commit 0df1b98c2b4f24da46b55beeb61ad0c509a3eea6
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:30:00 2018 +0000
+
+    AULAMCDA
+
+commit f4d231864fa722b649d466c973dd3018f77d1b2b
+Merge: 20b7af0b9 75efb56de
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:29:28 2018 +0000
+
+    GOLD
+
+commit 77132aa0719265b5c327c89a7f9fef7f51c6f8d3
+Merge: eecf0dac6 ae915be81
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:29:28 2018 +0000
+
+    GOLD
+
+commit 20b7af0b9c9f19224850e04f375782ecfc1359ce
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:28:36 2018 +0000
+
+    AUGOLD
+
+commit eecf0dac6b6e830a8b6b4c52aea2412c4b6e9f9b
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 22:28:36 2018 +0000
+
+    AUGOLD
+
+commit 1876e2adfdc3a3f472c614786c8927ad2a6b3987
+Author: yitsheyzeus <yitsheyzeus@fromthemachine.org>
+Date:   Sun Jul 29 18:11:50 2018 -0400
+
+    Update CNAME
+
+commit 1be6761bc6f543521217f2c3a1df2f5205616d37
+Author: yitsheyzeus <yitsheyzeus@fromthemachine.org>
+Date:   Sun Jul 29 18:11:50 2018 -0400
+
+    Update CNAME
+
+commit 75efb56dec119b5814bcc90dbcd620b397284f8a
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Jul 29 18:10:46 2018 -0400
+
+    Update CNAME
+
+commit ae915be813632ca3941963bdecff1ce8907d4f12
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Sun Jul 29 18:10:46 2018 -0400
+
+    Update CNAME
+
+commit 900253a7e9175f48357169010e7bb1124bf18be0
+Merge: 139336536 fb443ca73
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 05:09:24 2018 +0000
+
+    Merge branch 'master' of http://github.com/yitsheyzeus/yitsheyzeus.github.io
+
+commit a778aaa9bae220933d0b1a539a29dbae9e32e095
+Merge: 0cefbe54e 8f19887ed
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 05:09:24 2018 +0000
+
+    Merge branch 'master' of http://github.com/yitsheyzeus/yitsheyzeus.github.io
+
+commit 139336536eeb24f24f5196cd55ef80bff9e0d7ae
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 05:08:58 2018 +0000
+
+    NEW
+
+commit 0cefbe54e709eb3526016e7d622fc5236b393c98
+Author: root <root@arkho.me>
+Date:   Sun Jul 29 05:08:58 2018 +0000
+
+    NEW
+
+commit fb443ca7399515a3113b8603648e7669dfde87a0
+Author: yitsheyzeus <yitsheyzeus@fromthemachine.org>
+Date:   Fri Jul 27 17:19:10 2018 -0400
+
+    Update CNAME
+
+commit 8f19887ed32ed19657cecc347cac279cc126274d
+Author: yitsheyzeus <yitsheyzeus@fromthemachine.org>
+Date:   Fri Jul 27 17:19:10 2018 -0400
+
+    Update CNAME
+
+commit fbb49ef21c081f416f8c498f72e36beb54741d92
+Author: root <root@arkho.me>
+Date:   Fri Jul 27 21:13:30 2018 +0000
+
+    AI
+
+commit fdf0d5bb207f26fb93c68dbcbc9e612b5d8cbab3
+Author: root <root@arkho.me>
+Date:   Fri Jul 27 21:13:30 2018 +0000
+
+    AI
+
+commit f69045ba2eed8e7f74952a34b849b53e210ef2d4
+Author: root <root@arkho.me>
+Date:   Fri Jun 22 23:00:53 2018 +0000
+
+    TRY
+
+commit 1b4bac97dc3f7a21199a4817c2c4df876b7e411a
+Author: root <root@arkho.me>
+Date:   Fri Jun 22 23:00:53 2018 +0000
+
+    TRY
+
+commit 65d7213b83e0a36b0f5613bbb201e24f5f907422
+Author: root <root@arkho.me>
+Date:   Sun May 20 08:35:25 2018 +0000
+
+    SDFSDF
+
+commit ceaa3987425059ea23db833b3b648e679cf940ef
+Author: root <root@arkho.me>
+Date:   Sun May 20 08:35:25 2018 +0000
+
+    SDFSDF
+
+commit 0d68dfba4b68beb32ea747f290001fe71324ff31
+Author: root <root@arkho.me>
+Date:   Sun May 20 08:34:44 2018 +0000
+
+    i think i changed something.
+
+commit f35d84b0c8142c99a8cd3d8abb0f35ed5a551030
+Author: root <root@arkho.me>
+Date:   Sun May 20 08:34:44 2018 +0000
+
+    i think i changed something.
+
+commit b48eb81f7663d829a0bd4aec2d18d3e601e9cd7f
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:38:53 2018 +0000
+
+    JUPITER
+
+commit 0bdd73c3f3a226efe92f9886046fe45b28a0ed82
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:38:53 2018 +0000
+
+    JUPITER
+
+commit 68b8a896aab88aca08e9873e0788ccf971804817
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:38:18 2018 +0000
+
+    SANTA FE
+
+commit d5e5e4e2e335325057f7468befee61ebb653afd6
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:38:18 2018 +0000
+
+    SANTA FE
+
+commit a3efc9b857d7939035d49a91399a3d27207db8ac
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:28:17 2018 +0000
+
+    IN MEMORIUM SANTA FE ... ADACIC$
+
+commit 204b31bd454dc40d00923560102ed2e751277dea
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:28:17 2018 +0000
+
+    IN MEMORIUM SANTA FE ... ADACIC$
+
+commit 03b1bc590cb1f7e4e58bf9486f9f687912f1f7b5
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:26:04 2018 +0000
+
+    IN MEMORIUM SANTA FE ADACIC$
+
+commit 3bf32d910fac7c3a9fc5b3032b65458c271234f8
+Author: root <root@arkho.me>
+Date:   Sun May 20 07:26:04 2018 +0000
+
+    IN MEMORIUM SANTA FE ADACIC$
+
+commit 60854ae65fc90e14982c66856b059056da5f8b5b
+Author: root <root@arkho.me>
+Date:   Sun May 20 06:44:52 2018 +0000
+
+    SHAWKHIY SANTA EF
+
+commit 50b88de5ad4aa0e6e4af1e184b1fe488b69e087c
+Author: root <root@arkho.me>
+Date:   Sun May 20 06:44:52 2018 +0000
+
+    SHAWKHIY SANTA EF
+
+commit 03a45a78adc4fe47b974e1939cb09f695c59ed46
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:25:06 2018 +0000
+
+    en.reallyhim.com
+
+commit 1f16701b18d6a586bdf7c894277ba962502c32d2
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:25:06 2018 +0000
+
+    en.reallyhim.com
+
+commit 2caf7164aa0022aeebfab829366c35537a75be0b
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:24:30 2018 +0000
+
+    noprint
+
+commit 98491a4d8a836f946ef5fcd2bcb22556b17cc3a4
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:24:30 2018 +0000
+
+    noprint
+
+commit 049b07732e1d24aa35abd8161c5409f6264821ac
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:17:48 2018 +0000
+
+    CNAME LAMC.LA
+
+commit 16bb06d7de5a96f969b285bf2216dfc0e7f78468
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:17:48 2018 +0000
+
+    CNAME LAMC.LA
+
+commit 0c3ebb561df8b6f98d85184e6f9296040258af77
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:17:24 2018 +0000
+
+    UPDATE
+
+commit f09a282378d7857399427952c944352ed185dc6d
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:17:24 2018 +0000
+
+    UPDATE
+
+commit 13ae8b0bb55fd38db227059934f8e38cfa867934
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:16:47 2018 +0000
+
+    FAILUPDATE
+
+commit 712256d34fbb31a553c8b7762a87326a1be37f3a
+Author: root <root@vultr.guest>
+Date:   Fri May 18 20:16:47 2018 +0000
+
+    FAILUPDATE
+
+commit 74f1044f9fafc8b225f25b2d89f8b2a78a13aad9
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:08:32 2018 +0000
+
+    LAMC.LA
+
+commit b813a21128b43521428678c2ca3bba745065083e
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:08:32 2018 +0000
+
+    LAMC.LA
+
+commit a6f252042c86720378aebf9a5e9a3f2be0672e18
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:08:14 2018 +0000
+
+    GENIECK CNAME
+
+commit 57757af27f0e1306305dffbfbb637e665d487952
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:08:14 2018 +0000
+
+    GENIECK CNAME
+
+commit 62be4fcf73f164bd2535329cb557fc523bfb1cc8
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:07:36 2018 +0000
+
+    2017
+
+commit d0b64c485c3ac214bfdd4d9fc778e5ba2ca70959
+Author: root <root@vultr.guest>
+Date:   Fri May 18 17:07:36 2018 +0000
+
+    2017
+
+commit 705382cee4059fcec1273f9acec378026da6d4c2
+Merge: f85e9d38d ff6f9c620
+Author: root <root@vultr.guest>
+Date:   Mon May 14 22:01:35 2018 +0000
+
+    Merge branch 'master' of http://github.com/yitsheyzeus/yitsheyzeus.github.io
+
+commit 154bee32f7bc23f0588c54ba66f02581bb97bb00
+Merge: 46c1c7441 55f32102d
+Author: root <root@vultr.guest>
+Date:   Mon May 14 22:01:35 2018 +0000
+
+    Merge branch 'master' of http://github.com/yitsheyzeus/yitsheyzeus.github.io
+
+commit f85e9d38d0917ca185b8dbfb549fac3714035ec6
+Author: root <root@vultr.guest>
+Date:   Mon May 14 22:00:01 2018 +0000
+
+    CNAME
+
+commit 46c1c744178d3fe667e356f94aa589b99cbb7b5d
+Author: root <root@vultr.guest>
+Date:   Mon May 14 22:00:01 2018 +0000
+
+    CNAME
+
+commit 44c9a14c10d13a485328b3040e70242cb0b9fd08
+Author: root <root@vultr.guest>
+Date:   Mon May 14 21:58:19 2018 +0000
+
+    HU DA BAR ADONIAM
+
+commit 1e37f9e724fb575b97781751485ae671d78ced51
+Author: root <root@vultr.guest>
+Date:   Mon May 14 21:58:19 2018 +0000
+
+    HU DA BAR ADONIAM
+
+commit ff6f9c620a4c0a05019e0ef9e0def8413e192f90
+Author: root <root@arrr.tk>
+Date:   Sun May 13 01:14:59 2018 +0000
+
+    HEY RENTDS
+
+commit 55f32102dfec1afb76bbd0a1c2a7f03a31d95efa
+Author: root <root@arrr.tk>
+Date:   Sun May 13 01:14:59 2018 +0000
+
+    HEY RENTDS
+
+commit 571b24e676cfc22725ae7e6151820257a9d810cb
+Author: root <root@arrr.tk>
+Date:   Sun May 13 01:14:23 2018 +0000
+
+    commmmmmmmmmmmmmmmmmmmmmmmmmmmmmit
+
+commit 4b19385b086bdfdd361ee7f768e7d10922eb1dcf
+Author: root <root@arrr.tk>
+Date:   Sun May 13 01:14:23 2018 +0000
+
+    commmmmmmmmmmmmmmmmmmmmmmmmmmmmmit
+
+commit 571258dc187fc5a0d9b88a3b461a7301d7eaa1e6
+Author: root <root@arrr.tk>
+Date:   Sun May 13 00:16:41 2018 +0000
+
+    HEYA
+
+commit d44af4c34ec356cbfd3a5f4bab474f00ec3b8c77
+Author: root <root@arrr.tk>
+Date:   Sun May 13 00:16:41 2018 +0000
+
+    HEYA
+
+commit 6031cb13cc72f460736628386ac32837d567df38
+Author: root <root@arrr.tk>
+Date:   Sun May 13 00:13:36 2018 +0000
+
+    hi dem
+
+commit f4e6f4a11a7042486ad33bf13ff8d1b6e280d72f
+Author: root <root@arrr.tk>
+Date:   Sun May 13 00:13:36 2018 +0000
+
+    hi dem
+
+commit 77d991545088135adacebe5fd189e0214442c4c2
+Author: root <root@arrr.tk>
+Date:   Mon May 7 17:38:31 2018 +0000
+
+    RUIAN
+
+commit 90348a657c6057ceca4f0242adc1734a1e6e5965
+Author: root <root@arrr.tk>
+Date:   Mon May 7 17:38:31 2018 +0000
+
+    RUIAN
+
+commit e7ba0e672968f14dfc6da0d342d4b4d8625434fe
+Author: root <root@arrr.tk>
+Date:   Mon May 7 17:38:00 2018 +0000
+
+    RIAN
+
+commit bbada2ce52454b3ccceb0654528f8190b70a44a7
+Author: root <root@arrr.tk>
+Date:   Mon May 7 17:38:00 2018 +0000
+
+    RIAN
+
+commit 0343e7cfa129832816a27156de1ce9130387993a
+Author: root <root@arrr.tk>
+Date:   Sat May 5 19:58:59 2018 +0000
+
+    RA
+
+commit b412e2cf755c8cd598fbd46f661389f1e5624867
+Author: root <root@arrr.tk>
+Date:   Sat May 5 19:58:59 2018 +0000
+
+    RA
+
+commit bd9970aff1d43f149e248c051d5dfdc4dd07fac8
+Author: root <root@arrr.tk>
+Date:   Sat May 5 19:58:00 2018 +0000
+
+     R I TENT
+
+commit f3b29589fced587cb5cf225b63a1ced8128859d0
+Author: root <root@arrr.tk>
+Date:   Sat May 5 19:58:00 2018 +0000
+
+     R I TENT
+
+commit a3ebcc31e1792dd6f5e1e8276641d48eff0bc7dd
+Author: root <root@arrr.tk>
+Date:   Sat May 5 10:28:47 2018 +0000
+
+    ADDSEARCH EVIL TIMING ON THAT RECRAWL FOR NO FCKING RENOS
+
+commit b85121411f1e3107e7d07e9b5ff0b5ec73e8f393
+Author: root <root@arrr.tk>
+Date:   Sat May 5 10:28:47 2018 +0000
+
+    ADDSEARCH EVIL TIMING ON THAT RECRAWL FOR NO FCKING RENOS
+
+commit b32a20ee07c392705497a615aa95f8e3b92e2c89
+Author: root <root@arrr.tk>
+Date:   Fri May 4 23:11:34 2018 +0000
+
+    ENR
+
+commit e3e68027396f5a0a3545a0d97fc890eae51b5ba3
+Author: root <root@arrr.tk>
+Date:   Fri May 4 23:11:34 2018 +0000
+
+    ENR
+
+commit dfedbc1d8e10c0bec4dc4c12706f4f12ef20b14a
+Author: root <root@arrr.tk>
+Date:   Fri May 4 23:10:57 2018 +0000
+
+    wash and fold
+
+commit 5025900237dbea68c5a425c277a2e8e38af7ac79
+Author: root <root@arrr.tk>
+Date:   Fri May 4 23:10:57 2018 +0000
+
+    wash and fold
+
+commit d631a6a9d92289b77e2a915e4e9640b00d7f01ae
+Author: root <root@arrr.tk>
+Date:   Fri May 4 14:59:23 2018 +0000
+
+    SEE THE L OF D C THE AMD LF LAMDA
+
+commit 3b40975078dc26c7e82b4479e3c071520ed91eae
+Author: root <root@arrr.tk>
+Date:   Fri May 4 14:59:23 2018 +0000
+
+    SEE THE L OF D C THE AMD LF LAMDA
+
+commit f64488253fb533a771907b16a8561505ffa81129
+Author: root <root@arrr.tk>
+Date:   Fri May 4 14:58:34 2018 +0000
+
+    IDK
+
+commit 96abf8b749faa60fc67ac5e248e6200ea8a2c811
+Author: root <root@arrr.tk>
+Date:   Fri May 4 14:58:34 2018 +0000
+
+    IDK
+
+commit 9401a1a1733d40f6f4da059242c5795aab5ca50d
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:59:55 2018 +0000
+
+    DFDRERWDLKFHSDFLKSDHGKNSLKFNMPWIOEHRFIUBKJSDFKWEHGTIUERJFLKDSFNBIUHELRWQE
+
+commit 3cf8e2f8d4ca3029f89196e436dd8a47ceb380e5
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:59:55 2018 +0000
+
+    DFDRERWDLKFHSDFLKSDHGKNSLKFNMPWIOEHRFIUBKJSDFKWEHGTIUERJFLKDSFNBIUHELRWQE
+
+commit 8ff07ba6e142cf4d67656be27270fadc5f4fcca3
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:57:10 2018 +0000
+
+    ARE
+
+commit dd32e21bff59a691aadd92a370662115435085bf
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:57:10 2018 +0000
+
+    ARE
+
+commit f3fd9842eda5ccd3477277021cfc871d505a0038
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:13:36 2018 +0000
+
+    L AMD A
+
+commit d34adfb847aafed548e97c7a4b79a76f1782bcb3
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:13:36 2018 +0000
+
+    L AMD A
+
+commit d42b562adf9e8e827908105e943c148745556e5b
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:05:59 2018 +0000
+
+    RAD
+
+commit b752d292d2263fed5eeb2fa9bbe92aab97a3e972
+Author: root <root@arrr.tk>
+Date:   Fri May 4 02:05:59 2018 +0000
+
+    RAD
+
+commit 32624066219a26889b43294a9d443041ee54dc72
+Author: root <root@arrr.tk>
+Date:   Wed May 2 21:34:37 2018 +0000
+
+     OK
+
+commit 599dc24f5f63972f60b2f397dc9840d347e2f168
+Author: root <root@arrr.tk>
+Date:   Wed May 2 21:34:37 2018 +0000
+
+     OK
+
+commit 79e325625b8b89160cfd50b223fcdd1d417c28b7
+Author: root <root@arrr.tk>
+Date:   Wed May 2 20:51:56 2018 +0000
+
+    TYRWDFLKJSDFSDF
+
+commit 490e0b935b64dbe524f50a105112a6533628854a
+Author: root <root@arrr.tk>
+Date:   Wed May 2 20:51:56 2018 +0000
+
+    TYRWDFLKJSDFSDF
+
+commit 0b0fcfd917f93fa43804a778adba0c6be67db58d
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:09:51 2018 +0000
+
+    EN.R
+
+commit 200ffc8cf8a5a7ff481acfddc7d52910f4781f60
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:09:51 2018 +0000
+
+    EN.R
+
+commit 0737d974b4e6a740cd12d69d3222960466087d83
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:08:59 2018 +0000
+
+    DF
+
+commit b6671ee8eb1a4bf7bd3ca2d49bff048b74f46323
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:08:59 2018 +0000
+
+    DF
+
+commit 9488cc46416281be6134a7cc4e971fffb74da5d2
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:08:17 2018 +0000
+
+    JUPITER
+
+commit 4e6e133664229d176df838ae13efcffd42d67b8b
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 23:08:17 2018 +0000
+
+    JUPITER
+
+commit dc054647441644e52d7c25f0f7a4e8949207d2bf
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 20:03:28 2018 +0000
+
+    OK
+
+commit 4620d647234c5cb4330f6a55ff475faef4b99a65
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 20:03:28 2018 +0000
+
+    OK
+
+commit 2f84b4ae0f86940e2dc37a1af5f7d526511fe6c3
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:25:39 2018 +0000
+
+    lamda
+
+commit d628913845a422494e60e9e8a790fd638fd9dc06
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:25:39 2018 +0000
+
+    lamda
+
+commit c3f806cb5d4a4c22e45638ee5bbde0a169053af4
+Merge: 67dc2c8ec 443d6db8b
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:21:20 2018 +0000
+
+    RIAD
+
+commit 90d1ec3e01e0e054ef7546eab5c0ed8e49bfdc97
+Merge: 9289ce2e7 ed33a8f90
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:21:20 2018 +0000
+
+    RIAD
+
+commit 67dc2c8ec294248202c03f0d2884fd6acc2283c0
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:20:21 2018 +0000
+
+    D
+
+commit 9289ce2e7441aa14890ad0bf7b87416f48640d08
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:20:21 2018 +0000
+
+    D
+
+commit 202ef38e7540987e130de00f55107e0d8abb2348
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:14:58 2018 +0000
+
+    try
+
+commit 7edd7c6a07f5f8c149f72db93ee63c12735f9aeb
+Author: root <root@arrr.tk>
+Date:   Mon Apr 30 15:14:58 2018 +0000
+
+    try
+
+commit 443d6db8bb6ca29f98269fdc427443c49e5b803f
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Sat Apr 28 04:04:53 2018 -0700
+
+    Update CNAME
+
+commit ed33a8f90c4fa658a0ada7fd3c560b5b2af510d0
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Sat Apr 28 04:04:53 2018 -0700
+
+    Update CNAME
+
+commit c9f5c0a6d3ac51c4837ad33b6aa8f51a40aa0a02
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 11:01:17 2018 +0000
+
+    I HAVE YOU NOW, I AM THE REAL EDMUND DANTES, AND WE ARE ON THE CUTTY SARK
+
+commit 1ff61145fa23bb4257aac276b444523eeb796054
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 11:01:17 2018 +0000
+
+    I HAVE YOU NOW, I AM THE REAL EDMUND DANTES, AND WE ARE ON THE CUTTY SARK
+
+commit 12135d3215987d30a9004860a5950daca5aa625e
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:57:17 2018 +0000
+
+    Revert "enrea"
+    
+    This reverts commit 2aa3eeca37a88d372e115f310e5bbdff7184d1ae.
+
+commit f0cbc2a31a50f8a62d970911ead3f21c714a8492
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:57:17 2018 +0000
+
+    Revert "enrea"
+    
+    This reverts commit 2aa3eeca37a88d372e115f310e5bbdff7184d1ae.
+
+commit 9e015b878023df9de2a25d9ce0ca83f0e3ff18a8
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:52:37 2018 +0000
+
+    Revert "KIDS"
+    fixing.
+    This reverts commit 5ab7469fd68d6579736a89a29b11907894c10351.
+
+commit 51bbe62bb718eeb2caece7f363c75b487ca991fc
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:52:37 2018 +0000
+
+    Revert "KIDS"
+    fixing.
+    This reverts commit 5ab7469fd68d6579736a89a29b11907894c10351.
+
+commit 56c6799d8146ebb92b2679f5cf8ca4b917adb05a
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:50:13 2018 +0000
+
+    TEST
+
+commit 3ff7bbc7c431c122c321b1907f630da545aea3d6
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:50:13 2018 +0000
+
+    TEST
+
+commit 792281b6c7cd5d4428cf308d17312a4dbbdc9505
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:47:15 2018 +0000
+
+    DIFFFERENT
+
+commit 596c7af565233f0f73b701c5e4c16227beaa2ff3
+Author: root <root@arrr.tk>
+Date:   Sat Apr 28 09:47:15 2018 +0000
+
+    DIFFFERENT
+
+commit 5ab7469fd68d6579736a89a29b11907894c10351
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:58:37 2018 +0000
+
+    KIDS
+
+commit b714c7c3a13d87ddc1cda1edcf29e9ce561f59f4
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:58:37 2018 +0000
+
+    KIDS
+
+commit 69ff5d22a04ad695c62d5e94131bb8fbe5f3b8ed
+Merge: 2aa3eeca3 293871c8e
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:57:40 2018 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit 27f8e22a47c9bcc9fca75f8a4c3f6cda673a8aa2
+Merge: 3f275f862 b4d06e95b
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:57:40 2018 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit 2aa3eeca37a88d372e115f310e5bbdff7184d1ae
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:57:10 2018 +0000
+
+    enrea
+
+commit 3f275f8623c4f2ad63b2a260e00df698e1a08f2c
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:57:10 2018 +0000
+
+    enrea
+
+commit 85154f0c8a01647e0b64f21c12e4833823232acd
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:56:00 2018 +0000
+
+    LAMDA
+
+commit f363309e3e2db77799a3323dfa892670f904d04f
+Author: root <root@arrr.tk>
+Date:   Fri Apr 27 14:56:00 2018 +0000
+
+    LAMDA
+
+commit 293871c8e32a49201368896110395958e71058fe
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Wed Apr 25 20:01:57 2018 -0700
+
+    Set theme jekyll-theme-time-machine
+
+commit b4d06e95b46eb0833ad8928295da30051f8bb152
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Wed Apr 25 20:01:57 2018 -0700
+
+    Set theme jekyll-theme-time-machine
+
+commit ddd1013e85f647ece117111664d37205d6a18444
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:46:20 2018 +0000
+
+    LAMDA
+
+commit 29e6d23fe9f120010aa6d71810c5d32647a53a83
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:46:20 2018 +0000
+
+    LAMDA
+
+commit a830ae3bf1f011f576c5ab7fadd6055bcd72c4f3
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:45:44 2018 +0000
+
+    ARGH!
+
+commit ba07382ddd1614c886faf213c489454a3d06f319
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:45:44 2018 +0000
+
+    ARGH!
+
+commit 234f39e1d913c598ac874cf34b0133d5617a5d12
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:34:55 2018 +0000
+
+    SIFU
+
+commit 8cbe2b8c3ccf6273d9d01d07083c327742177f8c
+Author: root <root@arrr.tk>
+Date:   Wed Apr 25 22:34:55 2018 +0000
+
+    SIFU
+
+commit 32f4b31cb3263183a32e5583922cfe1193be4a23
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:34:24 2018 +0000
+
+    DF
+
+commit 8ab571da87522f9f7f5876fc744de72f9cf2aad8
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:34:24 2018 +0000
+
+    DF
+
+commit e4d2cc1de0e1d7c4b9d6837683ae7e1e719cdf87
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:33:45 2018 +0000
+
+    DF
+
+commit 0ad26bcb46f2bda548cba6bdd1bf63ca73d24120
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:33:45 2018 +0000
+
+    DF
+
+commit 0f61328cc422f36c46717c048bbf12fccd8a60b2
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:32:14 2018 +0000
+
+    newindex
+
+commit 709111e24f59298fea7d02a984eee3bcfc187a3f
+Author: root <root@arrr.tk>
+Date:   Tue Apr 24 17:32:14 2018 +0000
+
+    newindex
+
+commit b0d5c1e3b0f30bfa5f6106cb64fd34176796d4b0
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:13:35 2018 +0000
+
+    FIU
+
+commit f4c26d5cc79accd60c43f7fb62bed2062fe8831b
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:13:35 2018 +0000
+
+    FIU
+
+commit e6b1af00658e445eb7d260148feef38f7ad0ba6f
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:13:15 2018 +0000
+
+    GE
+
+commit 7c797c17b2c5015f7a3c28e9fd990125a4100eae
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:13:15 2018 +0000
+
+    GE
+
+commit e259796aa6adad6f766f667cab9ac1be3e25db5b
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:12:41 2018 +0000
+
+    FU
+
+commit db590b8e273a656b1eaf22ad4a5d11136a740e27
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 06:12:41 2018 +0000
+
+    FU
+
+commit f80a681a883097e370accb645eb74abb43f8bd34
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:27:37 2018 +0000
+
+    DF
+
+commit 2f847689f6df0852215c6559e18b230c62bd1c01
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:27:37 2018 +0000
+
+    DF
+
+commit 3d41740dd86451ffe161c535f1b2aca7de79c487
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:27:00 2018 +0000
+
+    OIC
+
+commit a8eb57617a1aec0f6b4590d76a02535720866259
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:27:00 2018 +0000
+
+    OIC
+
+commit 68222470a9b11395c2f8414fbb52a939163359a2
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:18:12 2018 +0000
+
+    OIC
+
+commit 19c9b8d7665377b2499da6660bba9dc3096f77e0
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:18:12 2018 +0000
+
+    OIC
+
+commit c5f7456d1746f00d8e883956e923623188b7b2db
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:17:17 2018 +0000
+
+    DF
+
+commit 84732ae58cc8d03220f01b54b3d3f9326911ec36
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:17:17 2018 +0000
+
+    DF
+
+commit 0cc311248c34ed91ceb8e4f9fb2ca916bc6beca9
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:16:46 2018 +0000
+
+    DF
+
+commit 72dd2d68fac243a6c291b9f422ea2c3e9398991a
+Author: root <root@arrr.tk>
+Date:   Sun Apr 22 05:16:46 2018 +0000
+
+    DF
+
+commit 33b1f4f9006ee19f7d8de003a7f83ee458aa16de
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:09:51 2018 +0000
+
+    asedfasdf"
+
+commit 0e03537f9362ac878267714a300478e17e7cb921
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:09:51 2018 +0000
+
+    asedfasdf"
+
+commit b119f9d377c1bdf9e9dddd429a7336070a66025b
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:09:32 2018 +0000
+
+    REAL
+
+commit 2f8d95a1e066c41efdaf45f57b68760607a29cbb
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:09:32 2018 +0000
+
+    REAL
+
+commit f62599b295ec314e43c9d8343b106099b18b1d51
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:08:49 2018 +0000
+
+    HI
+
+commit e69325bfd79f2898c8f3d157aa2e9be1aca93919
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 23:08:49 2018 +0000
+
+    HI
+
+commit 90f79dba28448704a7970fb05c4f417527075009
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:33:05 2018 +0000
+
+    ER
+
+commit 7ba507eae106ae929857d5e49790afdb6d7e4117
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:33:05 2018 +0000
+
+    ER
+
+commit ef715002b1912844d08103b48aed6947340943cf
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:31:39 2018 +0000
+
+     SDF IT LKSDJF SEVENTY
+
+commit 0bdade19415c1eddc47a0795e6bd45926a1696af
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:31:39 2018 +0000
+
+     SDF IT LKSDJF SEVENTY
+
+commit cada6fe15b9efef8c47341a17079a4a998058845
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:30:29 2018 +0000
+
+    TRY
+
+commit 261cbecf25cdea20f6d02d58c6cfb20ece757190
+Author: root <root@arrr.tk>
+Date:   Sat Apr 21 22:30:29 2018 +0000
+
+    TRY
+
+commit d2ab4923f10214082b85e842b19b0a41afc2b3a2
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:07:21 2018 +0000
+
+    OH
+
+commit be96a2e77dc4a804623ea2d9283747e744e1a25a
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:07:21 2018 +0000
+
+    OH
+
+commit 82a3deae464f5b6e6092c000b0f04552f21ca97d
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:06:38 2018 +0000
+
+    DF
+
+commit 7716d45858be39b1a6f751a2cec809b0d56c3ef3
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:06:38 2018 +0000
+
+    DF
+
+commit 233f06088fca0cb7ad4a9167612024e43e4dbb3c
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:04:15 2018 +0000
+
+    E
+
+commit fd45e2218ca68ac063a04a87af26ce2286b2924b
+Author: root <root@asgard.cf>
+Date:   Sat Apr 21 07:04:15 2018 +0000
+
+    E
+
+commit c0134cedd14086b62de2c9cf57f8076b6e53a766
+Author: root <root@asgard.cf>
+Date:   Tue Apr 17 22:02:27 2018 +0000
+
+    with drops of jupiter in her hair
+
+commit 95177e7ab5895f7aba91cd89b97824d25fe22348
+Author: root <root@asgard.cf>
+Date:   Tue Apr 17 22:02:27 2018 +0000
+
+    with drops of jupiter in her hair
+
+commit 5e50a7e25910c859ad9980a259975c9341d50052
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:21:35 2018 +0000
+
+    HO
+
+commit 6501e677e820edb7e79b05eeb0a8dd3c4d788b4e
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:21:35 2018 +0000
+
+    HO
+
+commit bb90dd63cda6086379f979d333193ab1a523ced2
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:21:08 2018 +0000
+
+    HA
+
+commit 38bae20a3449256ce995fa225fa6024a0a42747d
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:21:08 2018 +0000
+
+    HA
+
+commit ab53a32cf41c0004f36c9e608229f5669685d12e
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:20:05 2018 +0000
+
+    WHA
+
+commit e4a2f5339b1c2adf23a5d26aab960958ace77cd1
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:20:05 2018 +0000
+
+    WHA
+
+commit be2c369a78af88509ce47823d6b7827d73362be5
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:05:27 2018 +0000
+
+    ARE
+
+commit d2b566ec1d8fdf894cd0af6e54f98040719f00fa
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:05:27 2018 +0000
+
+    ARE
+
+commit d98f00fbf9206019ca3d6544edf8f613c513b294
+Merge: ec9e3139c d1b086d32
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:04:52 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 65d302c2d299bee3cd8676849c858457dc46dc8e
+Merge: 620842bc9 94f522357
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:04:52 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit ec9e3139c6d070e9a3299651e30f07d6802e0044
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:04:19 2018 +0000
+
+    MAYBE
+
+commit 620842bc9985d2b0bff90b3b58e7bf6cb9820ae1
+Author: root <root@asgard.cf>
+Date:   Sun Apr 15 07:04:19 2018 +0000
+
+    MAYBE
+
+commit d1b086d328d2828b42532efc01672a168aecdc5e
+Author: root <root@asgard.cf>
+Date:   Fri Apr 13 19:25:45 2018 +0000
+
+    RU
+
+commit 94f522357b466804fdd9a9e55f4bbe9398311678
+Author: root <root@asgard.cf>
+Date:   Fri Apr 13 19:25:45 2018 +0000
+
+    RU
+
+commit da8934467f8cda7733dabdf59dde9b0d0c6e7963
+Author: root <root@asgard.cf>
+Date:   Fri Apr 13 19:23:54 2018 +0000
+
+    spk
+
+commit 73c25e179b3e44f77b75874074a774d6dde70cfa
+Author: root <root@asgard.cf>
+Date:   Fri Apr 13 19:23:54 2018 +0000
+
+    spk
+
+commit eb6943688a4b09be1ddd114d1c7f1f86c2cb7cbe
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 20:39:40 2018 +0000
+
+    HABRAT TU TE
+
+commit d7433986e9d2f95f62804f8de6fecd6ab9d906e5
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 20:39:40 2018 +0000
+
+    HABRAT TU TE
+
+commit add7761177d4c3a3eaa7c734b0e3937f1169971e
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 20:38:57 2018 +0000
+
+    BRATHRUNT
+
+commit 29fe47480c7203933108d43a6ce316e75a8c2096
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 20:38:57 2018 +0000
+
+    BRATHRUNT
+
+commit ed0b76b9a621dc77d7964c5707d7e77be6be3f66
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 03:20:09 2018 +0000
+
+    TONORTHOW
+
+commit 79425295fa8e0d366e161927f9eabd3a2dc5f8db
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 03:20:09 2018 +0000
+
+    TONORTHOW
+
+commit bab09c85de5e631bf2d23624f330b752a07105b6
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 03:18:50 2018 +0000
+
+    CNAME EN DO UP
+
+commit 2306bdb204328e827d5143fba66e77b2ac0d66d5
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 03:18:50 2018 +0000
+
+    CNAME EN DO UP
+
+commit b525b74e6393fa931c12112d479fa3c548e1ca87
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 01:19:47 2018 +0000
+
+    whatever
+
+commit b05933de74e62a7577a279e1f9781d334c1321b0
+Author: root <root@asgard.cf>
+Date:   Wed Apr 11 01:19:47 2018 +0000
+
+    whatever
+
+commit 5d5bb219937cd330bb0944a2de0578625650e5a3
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:09:25 2018 +0000
+
+    jesus
+
+commit 7fded53a9badc5076b32abac8e432e88e18fde0e
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:09:25 2018 +0000
+
+    jesus
+
+commit 80eaaa64fee53b5be85c10aba34262abab03066a
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:08:16 2018 +0000
+
+    retard
+
+commit b8c102170538b96ad7d4abbd5e76dccd51a788d4
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:08:16 2018 +0000
+
+    retard
+
+commit 9c68892892eff126a9c892a25a66a3ba3c09aae3
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:07:17 2018 +0000
+
+    ftm
+
+commit e6b9cec6bd9b674c61447f56c301e83c1f6d1c9a
+Author: root <root@asgard.cf>
+Date:   Tue Apr 10 22:07:17 2018 +0000
+
+    ftm
+
+commit 8556b3a1900790e73e66063e4e9a45172a26c734
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:36:26 2018 +0000
+
+    SUNDIME
+
+commit cce9ab4cb2bd179259a6f89b5576fd2df1ac3509
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:36:26 2018 +0000
+
+    SUNDIME
+
+commit f58a16a086054cd21d04ed08085baeda32627217
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:30:17 2018 +0000
+
+    finale
+
+commit 74dce363123cc3b81fe286b5b2642dae3fe4a69a
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:30:17 2018 +0000
+
+    finale
+
+commit c7acde5d0984cf6dc6cfbb26f3a9117a0931909b
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:19:38 2018 +0000
+
+    AL FINALE
+
+commit 295d8ee64075c16f9b10c2eed31e697ea40589b9
+Author: root <root@asgard.cf>
+Date:   Mon Apr 9 23:19:38 2018 +0000
+
+    AL FINALE
+
+commit 1166222fd4a27b9f5ac61dc7b20371eb3889573f
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:54:59 2018 +0000
+
+    arfaxad
+
+commit 44a3a21be5c953d0e984ec7fff16ec771165d570
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:54:59 2018 +0000
+
+    arfaxad
+
+commit db72002f3d6bb746402ff66345584befd3aedaad
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:54:13 2018 +0000
+
+    the toxicity of our kissy kissy
+
+commit 8cea46ed9b4b7eb95c58b3606249a3f5a73398bd
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:54:13 2018 +0000
+
+    the toxicity of our kissy kissy
+
+commit 610b59d5090e9128e09f43b82fde63b579a9b73b
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:50:53 2018 +0000
+
+    IDUNNO
+
+commit 303698cc164405a60cdf0c118f37cd30f9d59c44
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 19:50:53 2018 +0000
+
+    IDUNNO
+
+commit 039c34dab357ae5bbd83a512188789d690abba29
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 05:10:36 2018 +0000
+
+    oic
+
+commit 0edab84c3ad642ec37904ccb9f0753591dcd8035
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 05:10:36 2018 +0000
+
+    oic
+
+commit 8f8cfef292387eb9734bc4cf3eadab4c99c19869
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 05:09:21 2018 +0000
+
+    oh
+
+commit 8858cc6b0f3692b2474fdbee23c76062d60f52a3
+Author: root <root@asgard.cf>
+Date:   Sat Apr 7 05:09:21 2018 +0000
+
+    oh
+
+commit b8d812aa58dabbb1e95484d6b8fa837f0105152b
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:56:23 2018 +0000
+
+    it
+
+commit 6cdb0084d8c5558424e85e27f29588fda22a1d78
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:56:23 2018 +0000
+
+    it
+
+commit 13de0807d17e85df7f22afd8a1ac43d42d985aea
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:55:37 2018 +0000
+
+    ARPHAXAD INDEXE
+
+commit 3622e5a8481adb3e287085f701abf6b352751ac0
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:55:37 2018 +0000
+
+    ARPHAXAD INDEXE
+
+commit 5095a9b4e5c77d7e14602c99804c5f67d4930eda
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:07:56 2018 +0000
+
+    commit
+
+commit a2ab89bf377c4fa3d34afbae06c9bc35537ed0cc
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 04:07:56 2018 +0000
+
+    commit
+
+commit 21e30af7ea742ef487c76df4315b87035e156597
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 03:46:16 2018 +0000
+
+    ARPHAXAD
+
+commit ebaf00457aa716c837e26a5a38c6a9e475c462ac
+Author: root <root@asgard.cf>
+Date:   Fri Apr 6 03:46:16 2018 +0000
+
+    ARPHAXAD
+
+commit 4746e57afe23f4a60aa9ff9d5b6c579f84785320
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 02:07:09 2018 +0000
+
+    t2c
+
+commit 0ab09eef7d40422182430b75e4a2058a91f2b312
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 02:07:09 2018 +0000
+
+    t2c
+
+commit dfebaf8cb34ddd8564e3ba11ed82dd201ae9e16d
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 02:06:48 2018 +0000
+
+     OKIC
+
+commit 3116c1393490513ef63acfd82b5e299279f3c205
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 02:06:48 2018 +0000
+
+     OKIC
+
+commit f5a3066db67158b2a5a93d27f58840164dee54c6
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 01:57:17 2018 +0000
+
+    i learned
+
+commit 065a298ac096d98e333fb778223f5405761fd15f
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 01:57:17 2018 +0000
+
+    i learned
+
+commit 8f6239d56b1ab728efe3a85486dad7fadb026b80
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 01:54:29 2018 +0000
+
+    ARPHAXAD
+
+commit 5d31f3bec7fcb71e8385dfc236fe9ed3814c097e
+Author: root <root@asgard.cf>
+Date:   Thu Apr 5 01:54:29 2018 +0000
+
+    ARPHAXAD
+
+commit 8c881c34aeee35ccb0313c5c4a15bbda3c1d779f
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 08:27:46 2018 +0000
+
+    hey yo, ay str
+
+commit 724825dabf8ee53bd2e56632485e3f3a020bed1e
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 08:27:46 2018 +0000
+
+    hey yo, ay str
+
+commit 75570cacc71f24994520f767e638730a5f38c2bd
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 08:26:43 2018 +0000
+
+    NEIX
+
+commit 8cfb2f6b985c045eefb40846488cee469ba01707
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 08:26:43 2018 +0000
+
+    NEIX
+
+commit 2c428733cd927ecda8f10fcc9dc4380e8756dfa7
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 06:45:01 2018 +0000
+
+    LAYLOT
+
+commit 944ad536919e5ee2f39f21d65d2177635e1ababb
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 06:45:01 2018 +0000
+
+    LAYLOT
+
+commit 2487d4c42a5479f514b7a6d914471b0985c747ae
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 06:44:38 2018 +0000
+
+    OH
+
+commit 836789db7dc2fce58d6e64014c58f584b3f227bf
+Author: root <root@asgard.cf>
+Date:   Wed Apr 4 06:44:38 2018 +0000
+
+    OH
+
+commit ca95ef586d610191e2c84b4da01c038d3dfb600f
+Author: root <root@asgard.cf>
+Date:   Tue Apr 3 19:55:19 2018 +0000
+
+    oh
+
+commit 6d725d9e75727c27a62f08c45cd3b7ac8b76b854
+Author: root <root@asgard.cf>
+Date:   Tue Apr 3 19:55:19 2018 +0000
+
+    oh
+
+commit 70d80bdc67416b00328d2b0302db44e881b9b207
+Author: root <root@asgard.cf>
+Date:   Tue Apr 3 19:53:16 2018 +0000
+
+    oh
+
+commit 2ce946c653683efdbea7dc4e727555e99a89ce8c
+Author: root <root@asgard.cf>
+Date:   Tue Apr 3 19:53:16 2018 +0000
+
+    oh
+
+commit 4c4e00d80782347bc4cd54772f6fbd0682af02a4
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 07:09:22 2018 +0000
+
+    d
+
+commit afd0b30c194f2d32f616e8f38e7e3143d5c4c167
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 07:09:22 2018 +0000
+
+    d
+
+commit a69f97a0554069631ebee23795fca3b3c2d95de2
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 07:06:20 2018 +0000
+
+    fix question mark shit
+
+commit 6c93578d122ac74bb11c0eb05d06a656febf8027
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 07:06:20 2018 +0000
+
+    fix question mark shit
+
+commit 208c19dc26feb9b091281fb17941b48b12093979
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 04:53:33 2018 +0000
+
+    ew
+
+commit 1eb42b21b6407220be0038c66f9281bfec117414
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 04:53:33 2018 +0000
+
+    ew
+
+commit 362036b09487e0bf7f896144f93f5fe1a81b7c52
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 04:52:50 2018 +0000
+
+    we
+
+commit 50f2976b337c88e207202e3946948835fd969099
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 04:52:50 2018 +0000
+
+    we
+
+commit 25eb2603148b761ddef1a77f6823819dbc316d53
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:33:56 2018 +0000
+
+    hey
+
+commit 8532288aaf4f56a7666fe3a1162c7fea74918b5a
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:33:56 2018 +0000
+
+    hey
+
+commit fea2dff73308e0862cb242780cd007432b082347
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:32:43 2018 +0000
+
+    NO IDEA
+
+commit b9c700e5f1c97a9bf1b0219c8733fc8faed44f19
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:32:43 2018 +0000
+
+    NO IDEA
+
+commit ae64431bed2478ffd93663a1e3b1bdd2fe13e3d4
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:31:12 2018 +0000
+
+    yeah
+
+commit 9111e9441f853f2c47ede2ae5cdbeade951df253
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 02:31:12 2018 +0000
+
+    yeah
+
+commit cca23f730ef23165c3dcfc7ad9b2e4ee40348410
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:33:31 2018 +0000
+
+    sigh
+
+commit 73074b561a520724431ecde6e57697d634b6ff63
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:33:31 2018 +0000
+
+    sigh
+
+commit 659d3eda94c0c7613bfd58083e1e6c80fa9033a7
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:27:36 2018 +0000
+
+    for you, and you al
+
+commit a4b15f93aed5882d05498b19a56cb1293cc72f5d
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:27:36 2018 +0000
+
+    for you, and you al
+
+commit 49e5e21a054602150353727e2a18d4d51ca7b51d
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:27:05 2018 +0000
+
+    OK
+
+commit 7de57c8a417b043c86d68bfd8bae43be2f6249e8
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:27:05 2018 +0000
+
+    OK
+
+commit 48b45ad6dd9a681cc089a0343a1c8ae59519a51c
+Merge: 6a4ffba72 8c6e0e153
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:26:19 2018 +0000
+
+    what
+
+commit 1749f23d835bbee630e90de6dfa96720c7e65222
+Merge: 6267fd819 5ef20d93d
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:26:19 2018 +0000
+
+    what
+
+commit 6a4ffba72454afd9e13c0d6855ea61064f6b5b83
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:24:34 2018 +0000
+
+    well see
+
+commit 6267fd819e3cda33ac208f5b8aac7c9a239a2e81
+Author: root <root@asgard.cf>
+Date:   Mon Apr 2 01:24:34 2018 +0000
+
+    well see
+
+commit 8c6e0e15332c3fb3322ff48bc5fc05b6231cb861
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 23:50:10 2018 +0000
+
+    oops
+
+commit 5ef20d93d9f523afa91af0fff2e04508da362c2e
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 23:50:10 2018 +0000
+
+    oops
+
+commit 038dc40696ff62a485d908fb7fb00cc2523ecca1
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 23:40:22 2018 +0000
+
+    plus fix maybe
+
+commit b4ffe17ad7c5a378d27772e5a4ff40474a07ad99
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 23:40:22 2018 +0000
+
+    plus fix maybe
+
+commit d265157e2780d074e6b50af17acaf8bebfd5346f
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 19:48:13 2018 +0000
+
+    roftm
+
+commit 0d745c359158617413e53cf3b516a54465e9466b
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 19:48:13 2018 +0000
+
+    roftm
+
+commit b7607c60473958d5b9cdddd09ddc3fde0b19bdab
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 19:47:48 2018 +0000
+
+    stupid
+
+commit bab323f49e80339887069bc52ee044fca6e42277
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 19:47:48 2018 +0000
+
+    stupid
+
+commit 8ec966a5a04340168e9e64cf1dbf2239dc785753
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:58:30 2018 +0000
+
+    hah
+
+commit 5aee53c9c8bacd62866f96272b4fb19c8af24a5b
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:58:30 2018 +0000
+
+    hah
+
+commit 729da401a5d4e8e311fca798d573f4979e56d34a
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:57:14 2018 +0000
+
+    WHY THO
+
+commit 9dda67f989824364f69d5bb32468d840afe7fb6c
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:57:14 2018 +0000
+
+    WHY THO
+
+commit f32573c403320d47dd81ace4d9d808059b4f3a2b
+Merge: 7269c4327 fabeb08a5
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:20:34 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 356c8b7faa116d051e37c16dcca9c56ba6483adb
+Merge: fb945f34d 6ebd6977a
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:20:34 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 7269c43274358753fc7c3517c1ed81b55aa8d992
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:20:10 2018 +0000
+
+    whateve
+
+commit fb945f34db493179d8192907312a1fa04e27da8b
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 17:20:10 2018 +0000
+
+    whateve
+
+commit fabeb08a51db17b63aabef70630d3d55d51ad8cb
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Sat Mar 31 22:38:32 2018 -0700
+
+    Update CNAME
+
+commit 6ebd6977ace25cf67225a84a54f71e3b29eb4494
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Sat Mar 31 22:38:32 2018 -0700
+
+    Update CNAME
+
+commit 431276d2a5a9af973af1c50fb90c54385d498610
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 05:11:34 2018 +0000
+
+    ah
+
+commit 7096b2e3869e7b3d006e3ce91006f0d27ce70672
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 05:11:34 2018 +0000
+
+    ah
+
+commit 6eb880f07315f642c393462ce49ab7da3b80b60a
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 05:09:06 2018 +0000
+
+    oh
+
+commit 299237e69559bf794866ec037f8e09bd6f30d739
+Author: root <root@asgard.cf>
+Date:   Sun Apr 1 05:09:06 2018 +0000
+
+    oh
+
+commit 71211071fa1a6e5fff8a20e750723b2f474b487a
+Author: root <root@asgard.cf>
+Date:   Thu Mar 29 07:51:30 2018 +0000
+
+    let it raaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaain
+
+commit d0f86ae0c51a783a346379562aba407a911949a7
+Author: root <root@asgard.cf>
+Date:   Thu Mar 29 07:51:30 2018 +0000
+
+    let it raaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaain
+
+commit 86c205183b8f89f1226143da3eebff192273713f
+Author: root <root@asgard.cf>
+Date:   Thu Mar 29 06:39:03 2018 +0000
+
+    c as i on
+
+commit 5a17b65ed23bf2f703d2dab9743e569edb5ae4ae
+Author: root <root@asgard.cf>
+Date:   Thu Mar 29 06:39:03 2018 +0000
+
+    c as i on
+
+commit 69c2931324ecbb5d0d924172b25ef35066f6c9d1
+Merge: 2b5abae91 569f9c281
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 07:00:26 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 0ebb3c863c7db42689e9293902de6b95092c271f
+Merge: 04519888e 020002d68
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 07:00:26 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 2b5abae91d379a6b762a658fcd7ea4f026ccdea8
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 06:59:47 2018 +0000
+
+    oic
+
+commit 04519888ee4e668bda32a196c92131c5e61b5b2c
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 06:59:47 2018 +0000
+
+    oic
+
+commit 569f9c281b4e37649666166b19579d7cda717701
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 23:14:33 2018 -0700
+
+    Update CNAME
+
+commit 020002d68ad04b8695cf00e1fe33a93228cda6ff
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 23:14:33 2018 -0700
+
+    Update CNAME
+
+commit 17a5cf4ba3de7411ba5c7b4eacb7f08431958d7e
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 06:08:53 2018 +0000
+
+    OK
+
+commit f2e375b9ec4f9823ac1fbab8230e0dd360ee6158
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 06:08:53 2018 +0000
+
+    OK
+
+commit b4d0dac5532a97007e79454c10f557d12f4344be
+Merge: 7e22f241c c2cb6921f
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:29:04 2018 +0000
+
+    whatever
+
+commit 386f0de9c8ad26b70cc47abfef0fbda691baad94
+Merge: a3f23d6e2 2af397a75
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:29:04 2018 +0000
+
+    whatever
+
+commit 7e22f241cec28de58a30ba65ab48208c401c0607
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:28:27 2018 +0000
+
+    stupid
+
+commit a3f23d6e29def9b2a17ea9a50e036b03a1c29e90
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:28:27 2018 +0000
+
+    stupid
+
+commit 321a07fa17a7504975fa7321432086af221a6fd8
+Merge: 9042001df 252d41310
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:27:53 2018 +0000
+
+    DFSDFSFF
+
+commit 3faaf3443eb017ceb5473edabff915263b9a8460
+Merge: 4abfe74bf ca408059a
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:27:53 2018 +0000
+
+    DFSDFSFF
+
+commit 9042001dfce1fbc7a95ff4ddd1ba98091ae17460
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:26:54 2018 +0000
+
+    sigh
+
+commit 4abfe74bfc02efbaae4c7b955bbadeefb599cb12
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:26:54 2018 +0000
+
+    sigh
+
+commit 453e34ff8b04502a6638dcc8e17f31345928ed72
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:25:50 2018 +0000
+
+    hey there deplana
+
+commit 16f2dcc6c737189dc87040b0274a2e731973de99
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 05:25:50 2018 +0000
+
+    hey there deplana
+
+commit 252d413108ae3c90897dd5322769848b8eac17f9
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 21:46:41 2018 -0700
+
+    Create CNAME
+
+commit ca408059a7b0c91b13d227cea3f629bf9afea0ad
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 21:46:41 2018 -0700
+
+    Create CNAME
+
+commit c2cb6921f0c482cd73a6bad7233cb1cfc40bdd58
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 21:46:09 2018 -0700
+
+    Create CNAME
+
+commit 2af397a758a01dc573560a1e6e068a9a2b63dc7c
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 21:46:09 2018 -0700
+
+    Create CNAME
+
+commit ddce20fa881881bbdfd1f934398adc35a1c710d4
+Merge: e8a65b5d7 d32af1642
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:35:14 2018 +0000
+
+    ah
+
+commit d185c2bb18a43e4a4bf365ca5fb47b4beac1bee9
+Merge: 01790bb37 ccf845819
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:35:14 2018 +0000
+
+    ah
+
+commit e8a65b5d7bb08efdb49e8d5ebfeae83fbc5db4bb
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:34:19 2018 +0000
+
+    oh vez mer
+
+commit 01790bb370d723cff832b5e4e2798cc4c1a23cfb
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:34:19 2018 +0000
+
+    oh vez mer
+
+commit d32af1642fa7c4311e75da8da8a8e525548fea2d
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 21:18:45 2018 -0700
+
+    Update CNAME
+
+commit ccf845819cbc3d4b91f7e1e39d055afad23f13e8
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 21:18:45 2018 -0700
+
+    Update CNAME
+
+commit 4a52c64940e676d1b0f8e6d3e7116ac20b4c6212
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:10:36 2018 +0000
+
+    Whatever
+
+commit ea49f5fd017448d7281b71de66cc3e107c1f2d57
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:10:36 2018 +0000
+
+    Whatever
+
+commit 24aaaed7abc8d48ea4492f2fa81b9a6874d3ddee
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:09:41 2018 +0000
+
+    the devil is in the errors
+
+commit 713f517af5eed33cb4b5cadb93cd6fdffb1a7edd
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 04:09:41 2018 +0000
+
+    the devil is in the errors
+
+commit 02f0f67432d58925ec2331ef3204a2331d0eb4e9
+Merge: 26c67e582 3fef65c90
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:38:57 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit d32a2f7c7228fc4b00c0eeade8e254e49ae040cd
+Merge: 954229c9a 7c1a98371
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:38:57 2018 +0000
+
+    Merge branch 'master' of https://github.com/ROFTM/roftm.github.io
+
+commit 26c67e5827d73e01c5394e3b1198d35aae1f0105
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:38:01 2018 +0000
+
+    is it the previous adam, or the last?
+
+commit 954229c9a318b31957dba4f10ae4f624819f94e7
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:38:01 2018 +0000
+
+    is it the previous adam, or the last?
+
+commit 3fef65c906e36e2d0d08ec255abaddc2fbec6bd3
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 20:14:24 2018 -0700
+
+    Update CNAME
+
+commit 7c1a98371a4403c0d33f8423cdaaabc43ffdfa55
+Author: Adam Marshall Dobrin <37724973+ROFTM@users.noreply.github.com>
+Date:   Tue Mar 27 20:14:24 2018 -0700
+
+    Update CNAME
+
+commit 0b8eddf87e30135894450f9581cc4e874d042ab1
+Merge: a143fbfbf a2c29fcf8
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:12:18 2018 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit d510e0585e3ae89d47a2b3b44750be39cd0bc0b4
+Merge: 6cf02bc53 8625e5bcc
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:12:18 2018 +0000
+
+    Merge branch 'master' of https://github.com/genieck/genieck.github.io
+
+commit a143fbfbfd0d1608f19dcb76742d3f06a39fcd58
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:11:56 2018 +0000
+
+    well..
+
+commit 6cf02bc53ecd1cfe62d213778c2ed1d1758775a6
+Author: root <root@asgard.cf>
+Date:   Wed Mar 28 03:11:56 2018 +0000
+
+    well..
+
+commit a2c29fcf84912946a3fc451e8b38287b4964415d
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 15:48:26 2018 -0700
+
+    Update CNAME
+
+commit 8625e5bcc81556a8acac7529102ac8e3128ade25
+Author: genieck <37433794+genieck@users.noreply.github.com>
+Date:   Tue Mar 27 15:48:26 2018 -0700
+
+    Update CNAME
+
+commit c6c55fe86811af571a1c32c912c00b46dfb09851
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:45:13 2018 +0000
+
+    BRIMSTONE
+
+commit 97da2e6a2977bd94b4c8e2a0e38de4635639c3ae
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:45:13 2018 +0000
+
+    BRIMSTONE
+
+commit c8273dfa0b5bdbb7cde0742bba88788bc66a3c50
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:38:01 2018 +0000
+
+    ROFTM
+
+commit b8ab659f1338820e9f3f9f7b27faa8be0deb9fe6
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:38:01 2018 +0000
+
+    ROFTM
+
+commit 88f242b07694779a68430883b695312b07c6c606
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:36:08 2018 +0000
+
+    maybe a fix
+
+commit c25be5ed3e47581f8632d796b1a660e2ac617a0e
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:36:08 2018 +0000
+
+    maybe a fix
+
+commit 061c9dc468c404afc2bd9bac3d7c26ca464d2b5c
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:30:20 2018 +0000
+
+    new index
+
+commit d50b34148a55901e5159a382165b28ffa1cc82a8
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:30:20 2018 +0000
+
+    new index
+
+commit 706682b37886905e8142fd44d00ef57bc971738b
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:28:52 2018 +0000
+
+    CNAME en:
+
+commit d37df003682dcbe80f9c38b29b1d575458b3da2a
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:28:52 2018 +0000
+
+    CNAME en:
+
+commit fc48880f4b00d3f3750df7d81018b5b2a571e00d
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:26:51 2018 +0000
+
+    i dunno
+
+commit fc7e79dd0fec82a2c668a4aa7f373e659e4ac0c1
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 22:26:51 2018 +0000
+
+    i dunno
+
+commit 75753f5181d1be2d3877eec41cfce855acd5a242
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 21:13:24 2018 +0000
+
+    other repo
+
+commit 221fb24d3c8c13bb51deb1f3e3c214d0134f0c6e
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 21:13:24 2018 +0000
+
+    other repo
+
+commit 9155d5e6977692285cd63418feca28d2b4f72eb7
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 21:03:28 2018 +0000
+
+    da y
+
+commit 34293d4e70b8fb83074679ca3dee81086c3df46d
+Author: root <root@asgard.cf>
+Date:   Tue Mar 27 21:03:28 2018 +0000
+
+    da y
